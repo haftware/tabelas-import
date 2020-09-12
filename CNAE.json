@@ -1,0 +1,2438 @@
+{
+    "versao": "1.0",
+    "valores": [
+        {
+            "codigo": "0111-3/01",
+            "nome": "Cultivo de arroz"
+        },
+        {
+            "codigo": "0111-3/02",
+            "nome": "Cultivo de milho"
+        },
+        {
+            "codigo": "0111-3/03",
+            "nome": "Cultivo de trigo"
+        },
+        {
+            "codigo": "0111-3/99",
+            "nome": "Cultivo de outros cereais não especificados anteriormente"
+        },
+        {
+            "codigo": "0112-1/01",
+            "nome": "Cultivo de algodão herbáceo"
+        },
+        {
+            "codigo": "0112-1/02",
+            "nome": "Cultivo de juta"
+        },
+        {
+            "codigo": "0112-1/99",
+            "nome": "Cultivo de outras fibras de lavoura temporária não especificadas anteriormente"
+        },
+        {
+            "codigo": "0113-0/00",
+            "nome": "Cultivo de cana-de-açúcar"
+        },
+        {
+            "codigo": "0114-8/00",
+            "nome": "Cultivo de fumo"
+        },
+        {
+            "codigo": "0115-6/00",
+            "nome": "Cultivo de soja"
+        },
+        {
+            "codigo": "0116-4/01",
+            "nome": "Cultivo de amendoim"
+        },
+        {
+            "codigo": "0116-4/02",
+            "nome": "Cultivo de girassol"
+        },
+        {
+            "codigo": "0116-4/03",
+            "nome": "Cultivo de mamona"
+        },
+        {
+            "codigo": "0116-4/99",
+            "nome": "Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente"
+        },
+        {
+            "codigo": "0119-9/01",
+            "nome": "Cultivo de abacaxi"
+        },
+        {
+            "codigo": "0119-9/02",
+            "nome": "Cultivo de alho"
+        },
+        {
+            "codigo": "0119-9/03",
+            "nome": "Cultivo de batata-inglesa"
+        },
+        {
+            "codigo": "0119-9/04",
+            "nome": "Cultivo de cebola"
+        },
+        {
+            "codigo": "0119-9/05",
+            "nome": "Cultivo de feijão"
+        },
+        {
+            "codigo": "0119-9/06",
+            "nome": "Cultivo de mandioca"
+        },
+        {
+            "codigo": "0119-9/07",
+            "nome": "Cultivo de melão"
+        },
+        {
+            "codigo": "0119-9/08",
+            "nome": "Cultivo de melancia"
+        },
+        {
+            "codigo": "0119-9/09",
+            "nome": "Cultivo de tomate rasteiro"
+        },
+        {
+            "codigo": "0119-9/99",
+            "nome": "Cultivo de outras plantas de lavoura temporária não especificadas anteriormente"
+        },
+        {
+            "codigo": "0121-1/01",
+            "nome": "Horticultura, exceto morango"
+        },
+        {
+            "codigo": "0121-1/02",
+            "nome": "Cultivo de morango"
+        },
+        {
+            "codigo": "0122-9/00",
+            "nome": "Cultivo de flores e plantas ornamentais"
+        },
+        {
+            "codigo": "0131-8/00",
+            "nome": "Cultivo de laranja"
+        },
+        {
+            "codigo": "0132-6/00",
+            "nome": "Cultivo de uva"
+        },
+        {
+            "codigo": "0133-4/01",
+            "nome": "Cultivo de açaí"
+        },
+        {
+            "codigo": "0133-4/02",
+            "nome": "Cultivo de banana"
+        },
+        {
+            "codigo": "0133-4/03",
+            "nome": "Cultivo de caju"
+        },
+        {
+            "codigo": "0133-4/04",
+            "nome": "Cultivo de cítricos, exceto laranja"
+        },
+        {
+            "codigo": "0133-4/05",
+            "nome": "Cultivo de coco-da-baía"
+        },
+        {
+            "codigo": "0133-4/06",
+            "nome": "Cultivo de guaraná"
+        },
+        {
+            "codigo": "0133-4/07",
+            "nome": "Cultivo de maçã"
+        },
+        {
+            "codigo": "0133-4/08",
+            "nome": "Cultivo de mamão"
+        },
+        {
+            "codigo": "0133-4/09",
+            "nome": "Cultivo de maracujá"
+        },
+        {
+            "codigo": "0133-4/10",
+            "nome": "Cultivo de manga"
+        },
+        {
+            "codigo": "0133-4/11",
+            "nome": "Cultivo de pêssego"
+        },
+        {
+            "codigo": "0133-4/99",
+            "nome": "Cultivo de frutas de lavoura permanente não especificadas anteriormente"
+        },
+        {
+            "codigo": "0134-2/00",
+            "nome": "Cultivo de café"
+        },
+        {
+            "codigo": "0135-1/00",
+            "nome": "Cultivo de cacau"
+        },
+        {
+            "codigo": "0139-3/01",
+            "nome": "Cultivo de chá-da-índia"
+        },
+        {
+            "codigo": "0139-3/02",
+            "nome": "Cultivo de erva-mate"
+        },
+        {
+            "codigo": "0139-3/03",
+            "nome": "Cultivo de pimenta-do-reino"
+        },
+        {
+            "codigo": "0139-3/04",
+            "nome": "Cultivo de plantas para condimento, exceto pimenta-do-reino"
+        },
+        {
+            "codigo": "0139-3/05",
+            "nome": "Cultivo de dendê"
+        },
+        {
+            "codigo": "0139-3/06",
+            "nome": "Cultivo de seringueira"
+        },
+        {
+            "codigo": "0139-3/99",
+            "nome": "Cultivo de outras plantas de lavoura permanente não especificadas anteriormente"
+        },
+        {
+            "codigo": "0141-5/01",
+            "nome": "Produção de sementes certificadas, exceto de forrageiras para pasto"
+        },
+        {
+            "codigo": "0141-5/02",
+            "nome": "Produção de sementes certificadas de forrageiras para formação de pasto"
+        },
+        {
+            "codigo": "0142-3/00",
+            "nome": "Produção de mudas e outras formas de propagação vegetal, certificadas"
+        },
+        {
+            "codigo": "0151-2/01",
+            "nome": "Criação de bovinos para corte"
+        },
+        {
+            "codigo": "0151-2/02",
+            "nome": "Criação de bovinos para leite"
+        },
+        {
+            "codigo": "0151-2/03",
+            "nome": "Criação de bovinos, exceto para corte e leite"
+        },
+        {
+            "codigo": "0152-1/01",
+            "nome": "Criação de bufalinos"
+        },
+        {
+            "codigo": "0152-1/02",
+            "nome": "Criação de eqüinos"
+        },
+        {
+            "codigo": "0152-1/03",
+            "nome": "Criação de asininos e muares"
+        },
+        {
+            "codigo": "0153-9/01",
+            "nome": "Criação de caprinos"
+        },
+        {
+            "codigo": "0153-9/02",
+            "nome": "Criação de ovinos, inclusive para produção de lã"
+        },
+        {
+            "codigo": "0154-7/00",
+            "nome": "Criação de suínos"
+        },
+        {
+            "codigo": "0155-5/01",
+            "nome": "Criação de frangos para corte"
+        },
+        {
+            "codigo": "0155-5/02",
+            "nome": "Produção de pintos de um dia"
+        },
+        {
+            "codigo": "0155-5/03",
+            "nome": "Criação de outros galináceos, exceto para corte"
+        },
+        {
+            "codigo": "0155-5/04",
+            "nome": "Criação de aves, exceto galináceos"
+        },
+        {
+            "codigo": "0155-5/05",
+            "nome": "Produção de ovos"
+        },
+        {
+            "codigo": "0159-8/01",
+            "nome": "Apicultura"
+        },
+        {
+            "codigo": "0159-8/02",
+            "nome": "Criação de animais de estimação"
+        },
+        {
+            "codigo": "0159-8/03",
+            "nome": "Criação de escargô"
+        },
+        {
+            "codigo": "0159-8/04",
+            "nome": "Criação de bicho-da-seda"
+        },
+        {
+            "codigo": "0159-8/99",
+            "nome": "Criação de outros animais não especificados anteriormente"
+        },
+        {
+            "codigo": "0161-0/01",
+            "nome": "Serviço de pulverização e controle de pragas agrícolas"
+        },
+        {
+            "codigo": "0161-0/02",
+            "nome": "Serviço de poda de árvores para lavouras"
+        },
+        {
+            "codigo": "0161-0/03",
+            "nome": "Serviço de preparação de terreno, cultivo e colheita"
+        },
+        {
+            "codigo": "0161-0/99",
+            "nome": "Atividades de apoio à agricultura não especificadas anteriormente"
+        },
+        {
+            "codigo": "0162-8/02",
+            "nome": "Serviço de tosquiamento de ovinos"
+        },
+        {
+            "codigo": "0162-8/03",
+            "nome": "Serviço de manejo de animais"
+        },
+        {
+            "codigo": "0162-8/99",
+            "nome": "Atividades de apoio à pecuária não especificadas anteriormente"
+        },
+        {
+            "codigo": "0163-6/00",
+            "nome": "Atividades de pós-colheita"
+        },
+        {
+            "codigo": "0170-9/00",
+            "nome": "Caça e serviços relacionados"
+        },
+        {
+            "codigo": "0210-1/01",
+            "nome": "Cultivo de eucalipto"
+        },
+        {
+            "codigo": "0210-1/02",
+            "nome": "Cultivo de acácia-negra"
+        },
+        {
+            "codigo": "0210-1/03",
+            "nome": "Cultivo de pinus"
+        },
+        {
+            "codigo": "0210-1/04",
+            "nome": "Cultivo de teca"
+        },
+        {
+            "codigo": "0210-1/05",
+            "nome": "Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca"
+        },
+        {
+            "codigo": "0210-1/06",
+            "nome": "Cultivo de mudas em viveiros florestais"
+        },
+        {
+            "codigo": "0210-1/07",
+            "nome": "Extração de madeira em florestas plantadas"
+        },
+        {
+            "codigo": "0210-1/08",
+            "nome": "Produção de carvão vegetal – florestas plantadas"
+        },
+        {
+            "codigo": "0210-1/09",
+            "nome": "Produção de casca de acácia-negra – florestas plantadas"
+        },
+        {
+            "codigo": "0210-1/99",
+            "nome": "Produção de produtos não-madeireiros não especificados anteriormente em florestas plantadas"
+        },
+        {
+            "codigo": "0220-9/01",
+            "nome": "Extração de madeira em florestas nativas"
+        },
+        {
+            "codigo": "0220-9/02",
+            "nome": "Produção de carvão vegetal – florestas nativas"
+        },
+        {
+            "codigo": "0220-9/03",
+            "nome": "Coleta de castanha-do-pará em florestas nativas"
+        },
+        {
+            "codigo": "0220-9/04",
+            "nome": "Coleta de látex em florestas nativas"
+        },
+        {
+            "codigo": "0220-9/05",
+            "nome": "Coleta de palmito em florestas nativas"
+        },
+        {
+            "codigo": "0220-9/06",
+            "nome": "Conservação de florestas nativas"
+        },
+        {
+            "codigo": "0220-9/99",
+            "nome": "Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas"
+        },
+        {
+            "codigo": "0230-6/00",
+            "nome": "Atividades de apoio à produção florestal"
+        },
+        {
+            "codigo": "0311-6/01",
+            "nome": "Pesca de peixes em água salgada"
+        },
+        {
+            "codigo": "0311-6/02",
+            "nome": "Pesca de crustáceos e moluscos em água salgada"
+        },
+        {
+            "codigo": "0311-6/03",
+            "nome": "Coleta de outros produtos marinhos"
+        },
+        {
+            "codigo": "0311-6/04",
+            "nome": "Atividades de apoio à pesca em água salgada"
+        },
+        {
+            "codigo": "0312-4/01",
+            "nome": "Pesca de peixes em água doce"
+        },
+        {
+            "codigo": "0312-4/02",
+            "nome": "Pesca de crustáceos e moluscos em água doce"
+        },
+        {
+            "codigo": "0312-4/03",
+            "nome": "Coleta de outros produtos aquáticos de água doce"
+        },
+        {
+            "codigo": "0312-4/04",
+            "nome": "Atividades de apoio à pesca em água doce"
+        },
+        {
+            "codigo": "0321-3/01",
+            "nome": "Criação de peixes em água salgada e salobra"
+        },
+        {
+            "codigo": "0321-3/02",
+            "nome": "Criação de camarões em água salgada e salobra"
+        },
+        {
+            "codigo": "0321-3/03",
+            "nome": "Criação de ostras e mexilhões em água salgada e salobra"
+        },
+        {
+            "codigo": "0321-3/04",
+            "nome": "Criação de peixes ornamentais em água salgada e salobra"
+        },
+        {
+            "codigo": "0321-3/05",
+            "nome": "Atividades de apoio à aqüicultura em água salgada e salobra"
+        },
+        {
+            "codigo": "0321-3/99",
+            "nome": "Cultivos e semicultivos da aqüicultura em água salgada e salobra não especificados anteriormente"
+        },
+        {
+            "codigo": "0322-1/01",
+            "nome": "Criação de peixes em água doce"
+        },
+        {
+            "codigo": "0322-1/02",
+            "nome": "Criação de camarões em água doce"
+        },
+        {
+            "codigo": "0322-1/03",
+            "nome": "Criação de ostras e mexilhões em água doce"
+        },
+        {
+            "codigo": "0322-1/04",
+            "nome": "Criação de peixes ornamentais em água doce"
+        },
+        {
+            "codigo": "0322-1/05",
+            "nome": "Ranicultura"
+        },
+        {
+            "codigo": "0322-1/06",
+            "nome": "Criação de jacaré"
+        },
+        {
+            "codigo": "0322-1/07",
+            "nome": "Atividades de apoio à aqüicultura em água doce"
+        },
+        {
+            "codigo": "0322-1/99",
+            "nome": "Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente"
+        },
+        {
+            "codigo": "0500-3/01",
+            "nome": "Extração de carvão mineral"
+        },
+        {
+            "codigo": "0500-3/02",
+            "nome": "Beneficiamento de carvão mineral"
+        },
+        {
+            "codigo": "0600-0/01",
+            "nome": "Extração de petróleo e gás natural"
+        },
+        {
+            "codigo": "0600-0/02",
+            "nome": "Extração e beneficiamento de xisto"
+        },
+        {
+            "codigo": "0600-0/03",
+            "nome": "Extração e beneficiamento de areias betuminosas"
+        },
+        {
+            "codigo": "0710-3/01",
+            "nome": "Extração de minério de ferro"
+        },
+        {
+            "codigo": "0710-3/02",
+            "nome": "Pelotização, sinterização e outros beneficiamentos de minério de ferro"
+        },
+        {
+            "codigo": "0721-9/01",
+            "nome": "Extração de minério de alumínio"
+        },
+        {
+            "codigo": "0721-9/02",
+            "nome": "Beneficiamento de minério de alumínio"
+        },
+        {
+            "codigo": "0722-7/01",
+            "nome": "Extração de minério de estanho"
+        },
+        {
+            "codigo": "0722-7/02",
+            "nome": "Beneficiamento de minério de estanho"
+        },
+        {
+            "codigo": "0723-5/01",
+            "nome": "Extração de minério de manganês"
+        },
+        {
+            "codigo": "0723-5/02",
+            "nome": "Beneficiamento de minério de manganês"
+        },
+        {
+            "codigo": "0724-3/01",
+            "nome": "Extração de minério de metais preciosos"
+        },
+        {
+            "codigo": "0724-3/02",
+            "nome": "Beneficiamento de minério de metais preciosos"
+        },
+        {
+            "codigo": "0725-1/00",
+            "nome": "Extração de minerais radioativos"
+        },
+        {
+            "codigo": "0729-4/01",
+            "nome": "Extração de minérios de nióbio e titânio"
+        },
+        {
+            "codigo": "0729-4/02",
+            "nome": "Extração de minério de tungstênio"
+        },
+        {
+            "codigo": "0729-4/03",
+            "nome": "Extração de minério de níquel"
+        },
+        {
+            "codigo": "0729-4/04",
+            "nome": "Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especifi"
+        },
+        {
+                "codigo": "0729-4/05",
+            "nome": "Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferroso"
+        },
+        {
+                "codigo": "0810-0/01",
+            "nome": "Extração de ardósia e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/02",
+            "nome": "Extração de granito e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/03",
+            "nome": "Extração de mármore e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/04",
+            "nome": "Extração de calcário e dolomita e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/05",
+            "nome": "Extração de gesso e caulim"
+        },
+        {
+            "codigo": "0810-0/06",
+            "nome": "Extração de areia, cascalho ou pedregulho e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/07",
+            "nome": "Extração de argila e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/08",
+            "nome": "Extração de saibro e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/09",
+            "nome": "Extração de basalto e beneficiamento associado"
+        },
+        {
+            "codigo": "0810-0/10",
+            "nome": "Beneficiamento de gesso e caulim associado à extração"
+        },
+        {
+            "codigo": "0810-0/99",
+            "nome": "Extração e britamento de pedras e outros materiais para construção e beneficiamento associado"
+        },
+        {
+            "codigo": "0891-6/00",
+            "nome": "Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos"
+        },
+        {
+            "codigo": "0892-4/01",
+            "nome": "Extração de sal marinho"
+        },
+        {
+            "codigo": "0892-4/02",
+            "nome": "Extração de sal-gema"
+        },
+        {
+            "codigo": "0892-4/03",
+            "nome": "Refino e outros tratamentos do sal"
+        },
+        {
+            "codigo": "0893-2/00",
+            "nome": "Extração de gemas (pedras preciosas e semipreciosas)"
+        },
+        {
+            "codigo": "0899-1/01",
+            "nome": "Extração de grafita"
+        },
+        {
+            "codigo": "0899-1/02",
+            "nome": "Extração de quartzo"
+        },
+        {
+            "codigo": "0899-1/03",
+            "nome": "Extração de amianto"
+        },
+        {
+            "codigo": "0899-1/99",
+            "nome": "Extração de outros minerais não-metálicos não especificados anteriormente"
+        },
+        {
+            "codigo": "0990-4/01",
+            "nome": "Atividades de apoio à extração de minério de ferro"
+        },
+        {
+            "codigo": "0990-4/02",
+            "nome": "Atividades de apoio à extração de minerais metálicos não-ferrosos"
+        },
+        {
+            "codigo": "0990-4/03",
+            "nome": "Atividades de apoio à extração de minerais não-metálicos"
+        },
+        {
+            "codigo": "1011-2/01",
+            "nome": "Frigorífico – abate de bovinos"
+        },
+        {
+            "codigo": "1011-2/02",
+            "nome": "Frigorífico – abate de eqüinos"
+        },
+        {
+            "codigo": "1011-2/03",
+            "nome": "Frigorífico – abate de ovinos e caprinos"
+        },
+        {
+            "codigo": "1011-2/04",
+            "nome": "Frigorífico – abate de bufalinos"
+        },
+        {
+            "codigo": "1011-2/05",
+            "nome": "Matadouro – abate de reses sob contrato, exceto abate de suínos"
+        },
+        {
+            "codigo": "1012-1/01",
+            "nome": "Abate de aves"
+        },
+        {
+            "codigo": "1012-1/02",
+            "nome": "Abate de pequenos animais"
+        },
+        {
+            "codigo": "1012-1/03",
+            "nome": "Frigorífico – abate de suínos"
+        },
+        {
+            "codigo": "1012-1/04",
+            "nome": "Matadouro – abate de suínos sob contrato"
+        },
+        {
+            "codigo": "1013-9/01",
+            "nome": "Fabricação de produtos de carne"
+        },
+        {
+            "codigo": "1013-9/02",
+            "nome": "Preparação de subprodutos do abate"
+        },
+        {
+            "codigo": "1020-1/01",
+            "nome": "Preservação de peixes, crustáceos e moluscos"
+        },
+        {
+            "codigo": "1020-1/02",
+            "nome": "Fabricação de conservas de peixes, crustáceos e moluscos"
+        },
+        {
+            "codigo": "1031-7/00",
+            "nome": "Fabricação de conservas de frutas"
+        },
+        {
+            "codigo": "1032-5/01",
+            "nome": "Fabricação de conservas de palmito"
+        },
+        {
+            "codigo": "1032-5/99",
+            "nome": "Fabricação de conservas de legumes e outros vegetais, exceto palmito"
+        },
+        {
+            "codigo": "1033-3/01",
+            "nome": "Fabricação de sucos concentrados de frutas, hortaliças e legumes"
+        },
+        {
+            "codigo": "1033-3/02",
+            "nome": "Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados"
+        },
+        {
+            "codigo": "1041-4/00",
+            "nome": "Fabricação de óleos vegetais em bruto, exceto óleo de milho"
+        },
+        {
+            "codigo": "1042-2/00",
+            "nome": "Fabricação de óleos vegetais refinados, exceto óleo de milho"
+        },
+        {
+            "codigo": "1043-1/00",
+            "nome": "Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais"
+        },
+        {
+            "codigo": "1051-1/00",
+            "nome": "Preparação do leite"
+        },
+        {
+            "codigo": "1052-0/00",
+            "nome": "Fabricação de laticínios"
+        },
+        {
+            "codigo": "1053-8/00",
+            "nome": "Fabricação de sorvetes e outros gelados comestíveis"
+        },
+        {
+            "codigo": "1061-9/01",
+            "nome": "Beneficiamento de arroz"
+        },
+        {
+            "codigo": "1061-9/02",
+            "nome": "Fabricação de produtos do arroz"
+        },
+        {
+            "codigo": "1062-7/00",
+            "nome": "Moagem de trigo e fabricação de derivados"
+        },
+        {
+            "codigo": "1063-5/00",
+            "nome": "Fabricação de farinha de mandioca e derivados"
+        },
+        {
+            "codigo": "1064-3/00",
+            "nome": "Fabricação de farinha de milho e derivados, exceto óleos de milho"
+        },
+        {
+            "codigo": "1065-1/01",
+            "nome": "Fabricação de amidos e féculas de vegetais"
+        },
+        {
+            "codigo": "1065-1/02",
+            "nome": "Fabricação de óleo de milho em bruto"
+        },
+        {
+            "codigo": "1065-1/03",
+            "nome": "Fabricação de óleo de milho refinado"
+        },
+        {
+            "codigo": "1066-0/00",
+            "nome": "Fabricação de alimentos para animais"
+        },
+        {
+            "codigo": "1069-4/00",
+            "nome": "Moagem e fabricação de produtos de origem vegetal não especificados anteriormente"
+        },
+        {
+            "codigo": "1071-6/00",
+            "nome": "Fabricação de açúcar em bruto"
+        },
+        {
+            "codigo": "1072-4/01",
+            "nome": "Fabricação de açúcar de cana refinado"
+        },
+        {
+            "codigo": "1072-4/02",
+            "nome": "Fabricação de açúcar de cereais (dextrose) e de beterraba"
+        },
+        {
+            "codigo": "1081-3/01",
+            "nome": "Beneficiamento de café"
+        },
+        {
+            "codigo": "1081-3/02",
+            "nome": "Torrefação e moagem de café"
+        },
+        {
+            "codigo": "1082-1/00",
+            "nome": "Fabricação de produtos à base de café"
+        },
+        {
+            "codigo": "1091-1/00",
+            "nome": "Fabricação de produtos de panificação"
+        },
+        {
+            "codigo": "1091-1/01",
+            "nome": "Fabricação de produtos de panificação industrial"
+        },
+        {
+            "codigo": "1091-1/02",
+            "nome": "Fabricação de produtos de padaria e confeitaria com predominância de produção própria"
+        },
+        {
+            "codigo": "1092-9/00",
+            "nome": "Fabricação de biscoitos e bolachas"
+        },
+        {
+            "codigo": "1093-7/01",
+            "nome": "Fabricação de produtos derivados do cacau e de chocolates"
+        },
+        {
+            "codigo": "1093-7/02",
+            "nome": "Fabricação de frutas cristalizadas, balas e semelhantes"
+        },
+        {
+            "codigo": "1094-5/00",
+            "nome": "Fabricação de massas alimentícias"
+        },
+        {
+            "codigo": "1095-3/00",
+            "nome": "Fabricação de especiarias, molhos, temperos e condimentos"
+        },
+        {
+            "codigo": "1096-1/00",
+            "nome": "Fabricação de alimentos e pratos prontos"
+        },
+        {
+            "codigo": "1099-6/01",
+            "nome": "Fabricação de vinagres"
+        },
+        {
+            "codigo": "1099-6/02",
+            "nome": "Fabricação de pós alimentícios"
+        },
+        {
+            "codigo": "1099-6/03",
+            "nome": "Fabricação de fermentos e leveduras"
+        },
+        {
+            "codigo": "1099-6/04",
+            "nome": "Fabricação de gelo comum"
+        },
+        {
+            "codigo": "1099-6/05",
+            "nome": "Fabricação de produtos para infusão (chá, mate, etc.)"
+        },
+        {
+            "codigo": "1099-6/06",
+            "nome": "Fabricação de adoçantes naturais e artificiais"
+        },
+        {
+            "codigo": "1099-6/07",
+            "nome": "Fabricação de alimentos dietéticos e complementos alimentares"
+        },
+        {
+            "codigo": "1099-6/99",
+            "nome": "Fabricação de outros produtos alimentícios não especificados anteriormente"
+        },
+        {
+            "codigo": "1121-6/00",
+            "nome": "Fabricação de águas envasadas"
+        },
+        {
+            "codigo": "1122-4/02",
+            "nome": "Fabricação de chá mate e outros chás prontos para consumo"
+        },
+        {
+            "codigo": "1122-4/04",
+            "nome": "Fabricação de bebidas isotônicas"
+        },
+        {
+            "codigo": "1210-7/00",
+            "nome": "Processamento industrial do fumo"
+        },
+        {
+            "codigo": "1311-1/00",
+            "nome": "Preparação e fiação de fibras de algodão"
+        },
+        {
+            "codigo": "1312-0/00",
+            "nome": "Preparação e fiação de fibras têxteis naturais, exceto algodão"
+        },
+        {
+            "codigo": "1313-8/00",
+            "nome": "Fiação de fibras artificiais e sintéticas"
+        },
+        {
+            "codigo": "1314-6/00",
+            "nome": "Fabricação de linhas para costurar e bordar"
+        },
+        {
+            "codigo": "1321-9/00",
+            "nome": "Tecelagem de fios de algodão"
+        },
+        {
+            "codigo": "1322-7/00",
+            "nome": "Tecelagem de fios de fibras têxteis naturais, exceto algodão"
+        },
+        {
+            "codigo": "1323-5/00",
+            "nome": "Tecelagem de fios de fibras artificiais e sintéticas"
+        },
+        {
+            "codigo": "1330-8/00",
+            "nome": "Fabricação de tecidos de malha"
+        },
+        {
+            "codigo": "1340-5/01",
+            "nome": "Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário"
+        },
+        {
+            "codigo": "1340-5/02",
+            "nome": "Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário"
+        },
+        {
+            "codigo": "1340-5/99",
+            "nome": "Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário"
+        },
+        {
+            "codigo": "1351-1/00",
+            "nome": "Fabricação de artefatos têxteis para uso doméstico"
+        },
+        {
+            "codigo": "1352-9/00",
+            "nome": "Fabricação de artefatos de tapeçaria"
+        },
+        {
+            "codigo": "1353-7/00",
+            "nome": "Fabricação de artefatos de cordoaria"
+        },
+        {
+            "codigo": "1354-5/00",
+            "nome": "Fabricação de tecidos especiais, inclusive artefatos"
+        },
+        {
+            "codigo": "1359-6/00",
+            "nome": "Fabricação de outros produtos têxteis não especificados anteriormente"
+        },
+        {
+            "codigo": "1411-8/01",
+            "nome": "Confecção de roupas íntimas"
+        },
+        {
+            "codigo": "1411-8/02",
+            "nome": "Facção de roupas íntimas"
+        },
+        {
+            "codigo": "1412-6/01",
+            "nome": "Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida"
+        },
+        {
+            "codigo": "1412-6/02",
+            "nome": "Confecção, sob medida, de peças do vestuário, exceto roupas íntimas"
+        },
+        {
+            "codigo": "1412-6/03",
+            "nome": "Facção de peças do vestuário, exceto roupas íntimas"
+        },
+        {
+            "codigo": "1413-4/01",
+            "nome": "Confecção de roupas profissionais, exceto sob medida"
+        },
+        {
+            "codigo": "1413-4/02",
+            "nome": "Confecção, sob medida, de roupas profissionais"
+        },
+        {
+            "codigo": "1413-4/03",
+            "nome": "Facção de roupas profissionais"
+        },
+        {
+            "codigo": "1414-2/00",
+            "nome": "Fabricação de acessórios do vestuário, exceto para segurança e proteção"
+        },
+        {
+            "codigo": "1421-5/00",
+            "nome": "Fabricação de meias"
+        },
+        {
+            "codigo": "1422-3/00",
+            "nome": "Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias"
+        },
+        {
+            "codigo": "1510-6/00",
+            "nome": "Curtimento e outras preparações de couro"
+        },
+        {
+            "codigo": "1521-1/00",
+            "nome": "Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material"
+        },
+        {
+            "codigo": "1529-7/00",
+            "nome": "Fabricação de artefatos de couro não especificados anteriormente"
+        },
+        {
+            "codigo": "1531-9/01",
+            "nome": "Fabricação de calçados de couro"
+        },
+        {
+            "codigo": "1531-9/02",
+            "nome": "Acabamento de calçados de couro sob contrato"
+        },
+        {
+            "codigo": "1532-7/00",
+            "nome": "Fabricação de tênis de qualquer material"
+        },
+        {
+            "codigo": "1533-5/00",
+            "nome": "Fabricação de calçados de material sintético"
+        },
+        {
+            "codigo": "1539-4/00",
+            "nome": "Fabricação de calçados de materiais não especificados anteriormente"
+        },
+        {
+            "codigo": "1540-8/00",
+            "nome": "Fabricação de partes para calçados, de qualquer material"
+        },
+        {
+            "codigo": "1610-2/01",
+            "nome": "Serrarias com desdobramento de madeira"
+        },
+        {
+            "codigo": "1621-8/00",
+            "nome": "Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada"
+        },
+        {
+            "codigo": "1622-6/01",
+            "nome": "Fabricação de casas de madeira pré-fabricadas"
+        },
+        {
+            "codigo": "1622-6/02",
+            "nome": "Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais"
+        },
+        {
+            "codigo": "1622-6/99",
+            "nome": "Fabricação de outros artigos de carpintaria para construção"
+        },
+        {
+            "codigo": "1623-4/00",
+            "nome": "Fabricação de artefatos de tanoaria e de embalagens de madeira"
+        },
+        {
+            "codigo": "1629-3/01",
+            "nome": "Fabricação de artefatos diversos de madeira, exceto móveis"
+        },
+        {
+            "codigo": "1629-3/02",
+            "nome": "Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto m"
+        },
+        {
+                "codigo": "1710-9/00",
+            "nome": "Fabricação de celulose e outras pastas para a fabricação de papel"
+        },
+        {
+            "codigo": "1721-4/00",
+            "nome": "Fabricação de papel"
+        },
+        {
+            "codigo": "1722-2/00",
+            "nome": "Fabricação de cartolina e papel-cartão"
+        },
+        {
+            "codigo": "1731-1/00",
+            "nome": "Fabricação de embalagens de papel"
+        },
+        {
+            "codigo": "1732-0/00",
+            "nome": "Fabricação de embalagens de cartolina e papel-cartão"
+        },
+        {
+            "codigo": "1733-8/00",
+            "nome": "Fabricação de chapas e de embalagens de papelão ondulado"
+        },
+        {
+            "codigo": "1741-9/01",
+            "nome": "Fabricação de formulários contínuos"
+        },
+        {
+            "codigo": "1741-9/02",
+            "nome": "Fabricação de produtos de papel, cartolina, papel-cartão e papelão ondulado para uso comercial"
+        },
+        {
+                "codigo": "1742-7/01",
+            "nome": "Fabricação de fraldas descartáveis"
+        },
+        {
+            "codigo": "1742-7/02",
+            "nome": "Fabricação de absorventes higiênicos"
+        },
+        {
+            "codigo": "1742-7/99",
+            "nome": "Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anterior"
+        },
+        {
+                "codigo": "1749-4/00",
+            "nome": "Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulad"
+        },
+        {
+                "codigo": "1811-3/01",
+            "nome": "Impressão de jornais"
+        },
+        {
+            "codigo": "1811-3/02",
+            "nome": "Impressão de livros, revistas e outras publicações periódicas"
+        },
+        {
+            "codigo": "1812-1/00",
+            "nome": "Impressão de material de segurança"
+        },
+        {
+            "codigo": "1813-0/01",
+            "nome": "Impressão de material para uso publicitário"
+        },
+        {
+            "codigo": "1813-0/99",
+            "nome": "Impressão de material para outros usos"
+        },
+        {
+            "codigo": "1821-1/00",
+            "nome": "Serviços de pré-impressão"
+        },
+        {
+            "codigo": "1822-9/00",
+            "nome": "Serviços de acabamentos gráficos"
+        },
+        {
+            "codigo": "1822-9/01",
+            "nome": "Serviços de encadernação e plastificação"
+        },
+        {
+            "codigo": "1822-9/99",
+            "nome": "Serviços de acabamentos gráficos, exceto encadernação e plastificação"
+        },
+        {
+            "codigo": "1830-0/01",
+            "nome": "Reprodução de som em qualquer suporte"
+        },
+        {
+            "codigo": "1830-0/02",
+            "nome": "Reprodução de vídeo em qualquer suporte"
+        },
+        {
+            "codigo": "1830-0/03",
+            "nome": "Reprodução de software em qualquer suporte"
+        },
+        {
+            "codigo": "1910-1/00",
+            "nome": "Coquerias"
+        },
+        {
+            "codigo": "1921-7/00",
+            "nome": "Fabricação de produtos do refino de petróleo"
+        },
+        {
+            "codigo": "1922-5/01",
+            "nome": "Formulação de combustíveis"
+        },
+        {
+            "codigo": "1922-5/02",
+            "nome": "Rerrefino de óleos lubrificantes"
+        },
+        {
+            "codigo": "1922-5/99",
+            "nome": "Fabricação de outros produtos derivados do petróleo, exceto produtos do refino"
+        },
+        {
+            "codigo": "1931-4/00",
+            "nome": "Fabricação de álcool"
+        },
+        {
+            "codigo": "1932-2/00",
+            "nome": "Fabricação de biocombustíveis, exceto álcool"
+        },
+        {
+            "codigo": "2011-8/00",
+            "nome": "Fabricação de cloro e álcalis"
+        },
+        {
+            "codigo": "2012-6/00",
+            "nome": "Fabricação de intermediários para fertilizantes"
+        },
+        {
+            "codigo": "2013-4/00",
+            "nome": "Fabricação de adubos e fertilizantes"
+        },
+        {
+            "codigo": "2013-4/01",
+            "nome": "Fabricação de adubos e fertilizantes organo-minerais"
+        },
+        {
+            "codigo": "2013-4/02",
+            "nome": "Fabricação de adubos e fertilizantes, exceto organo-minerais"
+        },
+        {
+            "codigo": "2014-2/00",
+            "nome": "Fabricação de gases industriais"
+        },
+        {
+            "codigo": "2019-3/01",
+            "nome": "Elaboração de combustíveis nucleares"
+        },
+        {
+            "codigo": "2019-3/99",
+            "nome": "Fabricação de outros produtos químicos inorgânicos não especificados anteriormente"
+        },
+        {
+            "codigo": "2021-5/00",
+            "nome": "Fabricação de produtos petroquímicos básicos"
+        },
+        {
+            "codigo": "2022-3/00",
+            "nome": "Fabricação de intermediários para plastificantes, resinas e fibras"
+        },
+        {
+            "codigo": "2029-1/00",
+            "nome": "Fabricação de produtos químicos orgânicos não especificados anteriormente"
+        },
+        {
+            "codigo": "2031-2/00",
+            "nome": "Fabricação de resinas termoplásticas"
+        },
+        {
+            "codigo": "2032-1/00",
+            "nome": "Fabricação de resinas termofixas"
+        },
+        {
+            "codigo": "2033-9/00",
+            "nome": "Fabricação de elastômeros"
+        },
+        {
+            "codigo": "2040-1/00",
+            "nome": "Fabricação de fibras artificiais e sintéticas"
+        },
+        {
+            "codigo": "2051-7/00",
+            "nome": "Fabricação de defensivos agrícolas"
+        },
+        {
+            "codigo": "2052-5/00",
+            "nome": "Fabricação de desinfestantes domissanitários"
+        },
+        {
+            "codigo": "2061-4/00",
+            "nome": "Fabricação de sabões e detergentes sintéticos"
+        },
+        {
+            "codigo": "2062-2/00",
+            "nome": "Fabricação de produtos de limpeza e polimento"
+        },
+        {
+            "codigo": "2063-1/00",
+            "nome": "Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal"
+        },
+        {
+            "codigo": "2071-1/00",
+            "nome": "Fabricação de tintas, vernizes, esmaltes e lacas"
+        },
+        {
+            "codigo": "2072-0/00",
+            "nome": "Fabricação de tintas de impressão"
+        },
+        {
+            "codigo": "2073-8/00",
+            "nome": "Fabricação de impermeabilizantes, solventes e produtos afins"
+        },
+        {
+            "codigo": "2091-6/00",
+            "nome": "Fabricação de adesivos e selantes"
+        },
+        {
+            "codigo": "2092-4/02",
+            "nome": "Fabricação de artigos pirotécnicos"
+        },
+        {
+            "codigo": "2092-4/03",
+            "nome": "Fabricação de fósforos de segurança"
+        },
+        {
+            "codigo": "2093-2/00",
+            "nome": "Fabricação de aditivos de uso industrial"
+        },
+        {
+            "codigo": "2094-1/00",
+            "nome": "Fabricação de catalisadores"
+        },
+        {
+            "codigo": "2099-1/01",
+            "nome": "Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia"
+        },
+        {
+            "codigo": "2099-1/99",
+            "nome": "Fabricação de outros produtos químicos não especificados anteriormente"
+        },
+        {
+            "codigo": "2110-6/00",
+            "nome": "Fabricação de produtos farmoquímicos"
+        },
+        {
+            "codigo": "2121-1/01",
+            "nome": "Fabricação de medicamentos alopáticos para uso humano"
+        },
+        {
+            "codigo": "2121-1/02",
+            "nome": "Fabricação de medicamentos homeopáticos para uso humano"
+        },
+        {
+            "codigo": "2121-1/03",
+            "nome": "Fabricação de medicamentos fitoterápicos para uso humano"
+        },
+        {
+            "codigo": "2122-0/00",
+            "nome": "Fabricação de medicamentos para uso veterinário"
+        },
+        {
+            "codigo": "2123-8/00",
+            "nome": "Fabricação de preparações farmacêuticas"
+        },
+        {
+            "codigo": "2211-1/00",
+            "nome": "Fabricação de pneumáticos e de câmaras-de-ar"
+        },
+        {
+            "codigo": "2219-6/00",
+            "nome": "Fabricação de artefatos de borracha não especificados anteriormente"
+        },
+        {
+            "codigo": "2221-8/00",
+            "nome": "Fabricação de laminados planos e tubulares de material plástico"
+        },
+        {
+            "codigo": "2222-6/00",
+            "nome": "Fabricação de embalagens de material plástico"
+        },
+        {
+            "codigo": "2223-4/00",
+            "nome": "Fabricação de tubos e acessórios de material plástico para uso na construção"
+        },
+        {
+            "codigo": "2229-3/01",
+            "nome": "Fabricação de artefatos de material plástico para uso pessoal e doméstico"
+        },
+        {
+            "codigo": "2229-3/02",
+            "nome": "Fabricação de artefatos de material plástico para usos industriais"
+        },
+        {
+            "codigo": "2229-3/03",
+            "nome": "Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios"
+        },
+        {
+            "codigo": "2229-3/99",
+            "nome": "Fabricação de artefatos de material plástico para outros usos não especificados anteriormente"
+        },
+        {
+            "codigo": "2311-7/00",
+            "nome": "Fabricação de vidro plano e de segurança"
+        },
+        {
+            "codigo": "2312-5/00",
+            "nome": "Fabricação de embalagens de vidro"
+        },
+        {
+            "codigo": "2319-2/00",
+            "nome": "Fabricação de artigos de vidro"
+        },
+        {
+            "codigo": "2320-6/00",
+            "nome": "Fabricação de cimento"
+        },
+        {
+            "codigo": "2330-3/01",
+            "nome": "Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda"
+        },
+        {
+            "codigo": "2330-3/02",
+            "nome": "Fabricação de artefatos de cimento para uso na construção"
+        },
+        {
+            "codigo": "2330-3/03",
+            "nome": "Fabricação de artefatos de fibrocimento para uso na construção"
+        },
+        {
+            "codigo": "2330-3/04",
+            "nome": "Fabricação de casas pré-moldadas de concreto"
+        },
+        {
+            "codigo": "2330-3/05",
+            "nome": "Preparação de massa de concreto e argamassa para construção"
+        },
+        {
+            "codigo": "2330-3/99",
+            "nome": "Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelh"
+        },
+        {
+                "codigo": "2341-9/00",
+            "nome": "Fabricação de produtos cerâmicos refratários"
+        },
+        {
+            "codigo": "2342-7/01",
+            "nome": "Fabricação de azulejos e pisos"
+        },
+        {
+            "codigo": "2342-7/02",
+            "nome": "Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos"
+        },
+        {
+            "codigo": "2349-4/01",
+            "nome": "Fabricação de material sanitário de cerâmica"
+        },
+        {
+            "codigo": "2349-4/99",
+            "nome": "Fabricação de produtos cerâmicos não-refratários não especificados anteriormente"
+        },
+        {
+            "codigo": "2391-5/01",
+            "nome": "Britamento de pedras, exceto associado à extração"
+        },
+        {
+            "codigo": "2391-5/02",
+            "nome": "Aparelhamento de pedras para construção, exceto associado à extração"
+        },
+        {
+            "codigo": "2391-5/03",
+            "nome": "Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras"
+        },
+        {
+            "codigo": "2392-3/00",
+            "nome": "Fabricação de cal e gesso"
+        },
+        {
+            "codigo": "2399-1/01",
+            "nome": "Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal"
+        },
+        {
+            "codigo": "2399-1/02",
+            "nome": "Fabricação de abrasivos"
+        },
+        {
+            "codigo": "2399-1/99",
+            "nome": "Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente"
+        },
+        {
+            "codigo": "2411-3/00",
+            "nome": "Produção de ferro-gusa"
+        },
+        {
+            "codigo": "2412-1/00",
+            "nome": "Produção de ferroligas"
+        },
+        {
+            "codigo": "2421-1/00",
+            "nome": "Produção de semi-acabados de aço"
+        },
+        {
+            "codigo": "2422-9/01",
+            "nome": "Produção de laminados planos de aço ao carbono, revestidos ou não"
+        },
+        {
+            "codigo": "2422-9/02",
+            "nome": "Produção de laminados planos de aços especiais"
+        },
+        {
+            "codigo": "2423-7/01",
+            "nome": "Produção de tubos de aço sem costura"
+        },
+        {
+            "codigo": "2423-7/02",
+            "nome": "Produção de laminados longos de aço, exceto tubos"
+        },
+        {
+            "codigo": "2424-5/01",
+            "nome": "Produção de arames de aço"
+        },
+        {
+            "codigo": "2424-5/02",
+            "nome": "Produção de relaminados, trefilados e perfilados de aço, exceto arames"
+        },
+        {
+            "codigo": "2431-8/00",
+            "nome": "Produção de tubos de aço com costura"
+        },
+        {
+            "codigo": "2439-3/00",
+            "nome": "Produção de outros tubos de ferro e aço"
+        },
+        {
+            "codigo": "2441-5/01",
+            "nome": "Produção de alumínio e suas ligas em formas primárias"
+        },
+        {
+            "codigo": "2441-5/02",
+            "nome": "Produção de laminados de alumínio"
+        },
+        {
+            "codigo": "2442-3/00",
+            "nome": "Metalurgia dos metais preciosos"
+        },
+        {
+            "codigo": "2443-1/00",
+            "nome": "Metalurgia do cobre"
+        },
+        {
+            "codigo": "2449-1/01",
+            "nome": "Produção de zinco em formas primárias"
+        },
+        {
+            "codigo": "2449-1/02",
+            "nome": "Produção de laminados de zinco"
+        },
+        {
+            "codigo": "2449-1/03",
+            "nome": "Produção de ânodos para galvanoplastia"
+        },
+        {
+            "codigo": "2449-1/99",
+            "nome": "Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente"
+        },
+        {
+            "codigo": "2451-2/00",
+            "nome": "Fundição de ferro e aço"
+        },
+        {
+            "codigo": "2452-1/00",
+            "nome": "Fundição de metais não-ferrosos e suas ligas"
+        },
+        {
+            "codigo": "2511-0/00",
+            "nome": "Fabricação de estruturas metálicas"
+        },
+        {
+            "codigo": "2512-8/00",
+            "nome": "Fabricação de esquadrias de metal"
+        },
+        {
+            "codigo": "2513-6/00",
+            "nome": "Fabricação de obras de caldeiraria pesada"
+        },
+        {
+            "codigo": "2521-7/00",
+            "nome": "Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central"
+        },
+        {
+            "codigo": "2522-5/00",
+            "nome": "Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos"
+        },
+        {
+            "codigo": "2531-4/01",
+            "nome": "Produção de forjados de aço"
+        },
+        {
+            "codigo": "2531-4/02",
+            "nome": "Produção de forjados de metais não-ferrosos e suas ligas"
+        },
+        {
+            "codigo": "2532-2/01",
+            "nome": "Produção de artefatos estampados de metal"
+        },
+        {
+            "codigo": "2532-2/02",
+            "nome": "Metalurgia do pó"
+        },
+        {
+            "codigo": "2539-0/00",
+            "nome": "Serviços de usinagem, solda, tratamento e revestimento em metais (este serviço foi analisado como "
+        },utilizar o Sim II
+                    para tributar esta parte das receitas)</td>
+        {
+                "codigo": "2539-0/01",
+            "nome": "Serviços de usinagem, tornearia e solda"
+        },
+        {
+            "codigo": "2539-0/02",
+            "nome": "Serviços de tratamento e revestimento em metais"
+        },
+        {
+            "codigo": "2541-1/00",
+            "nome": "Fabricação de artigos de cutelaria"
+        },
+        {
+            "codigo": "2542-0/00",
+            "nome": "Fabricação de artigos de serralheria, exceto esquadrias"
+        },
+        {
+            "codigo": "2543-8/00",
+            "nome": "Fabricação de ferramentas"
+        },
+        {
+            "codigo": "2591-8/00",
+            "nome": "Fabricação de embalagens metálicas"
+        },
+        {
+            "codigo": "2592-6/01",
+            "nome": "Fabricação de produtos de trefilados de metal padronizados"
+        },
+        {
+            "codigo": "2592-6/02",
+            "nome": "Fabricação de produtos de trefilados de metal, exceto padronizados"
+        },
+        {
+            "codigo": "2593-4/00",
+            "nome": "Fabricação de artigos de metal para uso doméstico e pessoal"
+        },
+        {
+            "codigo": "2599-3/01",
+            "nome": "Serviços de confecção de armações metálicas para a construção"
+        },
+        {
+            "codigo": "2599-3/02",
+            "nome": "Serviço de corte e dobra de metais"
+        },
+        {
+            "codigo": "2599-3/99",
+            "nome": "Fabricação de outros produtos de metal não especificados anteriormente"
+        },
+        {
+            "codigo": "2610-8/00",
+            "nome": "Fabricação de componentes eletrônicos"
+        },
+        {
+            "codigo": "2621-3/00",
+            "nome": "Fabricação de equipamentos de informática"
+        },
+        {
+            "codigo": "2622-1/00",
+            "nome": "Fabricação de periféricos para equipamentos de informática"
+        },
+        {
+            "codigo": "2631-1/00",
+            "nome": "Fabricação de equipamentos transmissores de comunicação, peças e acessórios"
+        },
+        {
+            "codigo": "2632-9/00",
+            "nome": "Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios"
+        },
+        {
+            "codigo": "2640-0/00",
+            "nome": "Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo"
+        },
+        {
+            "codigo": "2651-5/00",
+            "nome": "Fabricação de aparelhos e equipamentos de medida, teste e controle"
+        },
+        {
+            "codigo": "2652-3/00",
+            "nome": "Fabricação de cronômetros e relógios"
+        },
+        {
+            "codigo": "2660-4/00",
+            "nome": "Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação"
+        },
+        {
+            "codigo": "2670-1/01",
+            "nome": "Fabricação de equipamentos e instrumentos ópticos, peças e acessórios"
+        },
+        {
+            "codigo": "2670-1/02",
+            "nome": "Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios"
+        },
+        {
+            "codigo": "2680-9/00",
+            "nome": "Fabricação de mídias virgens, magnéticas e ópticas"
+        },
+        {
+            "codigo": "2710-4/01",
+            "nome": "Fabricação de geradores de corrente contínua e alternada, peças e acessórios"
+        },
+        {
+            "codigo": "2710-4/02",
+            "nome": "Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acess"
+        },
+        {
+                "codigo": "2710-4/03",
+            "nome": "Fabricação de motores elétricos, peças e acessórios"
+        },
+        {
+            "codigo": "2721-0/00",
+            "nome": "Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores"
+        },
+        {
+            "codigo": "2722-8/01",
+            "nome": "Fabricação de baterias e acumuladores para veículos automotores"
+        },
+        {
+            "codigo": "2722-8/02",
+            "nome": "Recondicionamento de baterias e acumuladores para veículos automotores"
+        },
+        {
+            "codigo": "2731-7/00",
+            "nome": "Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica"
+        },
+        {
+            "codigo": "2732-5/00",
+            "nome": "Fabricação de material elétrico para instalações em circuito de consumo"
+        },
+        {
+            "codigo": "2733-3/00",
+            "nome": "Fabricação de fios, cabos e condutores elétricos isolados"
+        },
+        {
+            "codigo": "2740-6/01",
+            "nome": "Fabricação de lâmpadas"
+        },
+        {
+            "codigo": "2740-6/02",
+            "nome": "Fabricação de luminárias e outros equipamentos de iluminação"
+        },
+        {
+            "codigo": "2751-1/00",
+            "nome": "Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios"
+        },
+        {
+            "codigo": "2759-7/01",
+            "nome": "Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios"
+        },
+        {
+            "codigo": "2759-7/99",
+            "nome": "Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios"
+        },
+        {
+            "codigo": "2790-2/01",
+            "nome": "Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroí"
+        },
+        {
+                "codigo": "2790-2/02",
+            "nome": "Fabricação de equipamentos para sinalização e alarme"
+        },
+        {
+            "codigo": "2790-2/99",
+            "nome": "Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente"
+        },
+        {
+            "codigo": "2811-9/00",
+            "nome": "Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários"
+        },
+        {
+            "codigo": "2812-7/00",
+            "nome": "Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas"
+        },
+        {
+            "codigo": "2813-5/00",
+            "nome": "Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios"
+        },
+        {
+            "codigo": "2814-3/01",
+            "nome": "Fabricação de compressores para uso industrial, peças e acessórios"
+        },
+        {
+            "codigo": "2814-3/02",
+            "nome": "Fabricação de compressores para uso não-industrial, peças e acessórios"
+        },
+        {
+            "codigo": "2815-1/01",
+            "nome": "Fabricação de rolamentos para fins industriais"
+        },
+        {
+            "codigo": "2815-1/02",
+            "nome": "Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos"
+        },
+        {
+            "codigo": "2821-6/01",
+            "nome": "Fabricação de fornos industriais, aparelhos e equipamentos não-elétricos para instalações térmicas, pe"
+        },
+        {
+                "codigo": "2821-6/02",
+            "nome": "Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios"
+        },
+        {
+            "codigo": "2822-4/01",
+            "nome": "Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acess"
+        },
+        {
+                "codigo": "2822-4/02",
+            "nome": "Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acess"
+        },
+        {
+                "codigo": "2823-2/00",
+            "nome": "Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, pe"
+        },
+        {
+                "codigo": "2824-1/01",
+            "nome": "Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial"
+        },
+        {
+            "codigo": "2824-1/02",
+            "nome": "Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial"
+        },
+        {
+            "codigo": "2825-9/00",
+            "nome": "Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios"
+        },
+        {
+            "codigo": "2829-1/01",
+            "nome": "Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, pe"
+        },
+        {
+                "codigo": "2829-1/99",
+            "nome": "Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, pe"
+        },
+        {
+                "codigo": "2831-3/00",
+            "nome": "Fabricação de tratores agrícolas, peças e acessórios"
+        },
+        {
+            "codigo": "2832-1/00",
+            "nome": "Fabricação de equipamentos para irrigação agrícola, peças e acessórios"
+        },
+        {
+            "codigo": "2833-0/00",
+            "nome": "Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto"
+        },
+        {
+                "codigo": "2840-2/00",
+            "nome": "Fabricação de máquinas-ferramenta, peças e acessórios"
+        },
+        {
+            "codigo": "2851-8/00",
+            "nome": "Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios"
+        },
+        {
+            "codigo": "2852-6/00",
+            "nome": "Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exce"
+        },
+        {
+                "codigo": "2853-4/00",
+            "nome": "Fabricação de tratores, peças e acessórios, exceto agrícolas"
+        },
+        {
+            "codigo": "2854-2/00",
+            "nome": "Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessó"
+        },
+        {
+                "codigo": "2861-5/00",
+            "nome": "Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta"
+        },
+        {
+            "codigo": "2862-3/00",
+            "nome": "Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acess"
+        },
+        {
+                "codigo": "2863-1/00",
+            "nome": "Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios"
+        },
+        {
+            "codigo": "2864-0/00",
+            "nome": "Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, pe"
+        },
+        {
+                "codigo": "2865-8/00",
+            "nome": "Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, pe"
+        },
+        {
+                "codigo": "2866-6/00",
+            "nome": "Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios"
+        },
+        {
+            "codigo": "2869-1/00",
+            "nome": "Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, "
+        },
+        {
+                "codigo": "2910-7/02",
+            "nome": "Fabricação de chassis com motor para automóveis, camionetas e utilitários"
+        },
+        {
+            "codigo": "2910-7/03",
+            "nome": "Fabricação de motores para automóveis, camionetas e utilitários"
+        },
+        {
+            "codigo": "2920-4/01",
+            "nome": "Fabricação de caminhões e ônibus"
+        },
+        {
+            "codigo": "2920-4/02",
+            "nome": "Fabricação de motores para caminhões e ônibus"
+        },
+        {
+            "codigo": "2930-1/01",
+            "nome": "Fabricação de cabines, carrocerias e reboques para caminhões"
+        },
+        {
+            "codigo": "2930-1/02",
+            "nome": "Fabricação de carrocerias para ônibus"
+        },
+        {
+            "codigo": "2930-1/03",
+            "nome": "Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ô"
+        },
+        {
+                "codigo": "2941-7/00",
+            "nome": "Fabricação de peças e acessórios para o sistema motor de veículos automotores"
+        },
+        {
+            "codigo": "2942-5/00",
+            "nome": "Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores"
+        },
+        {
+            "codigo": "2943-3/00",
+            "nome": "Fabricação de peças e acessórios para o sistema de freios de veículos automotores"
+        },
+        {
+            "codigo": "2944-1/00",
+            "nome": "Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores"
+        },
+        {
+            "codigo": "2945-0/00",
+            "nome": "Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias"
+        },
+        {
+            "codigo": "2949-2/01",
+            "nome": "Fabricação de bancos e estofados para veículos automotores"
+        },
+        {
+            "codigo": "2949-2/99",
+            "nome": "Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente"
+        },
+        {
+            "codigo": "2950-6/00",
+            "nome": "Recondicionamento e recuperação de motores para veículos automotores"
+        },
+        {
+            "codigo": "3011-3/01",
+            "nome": "Construção de embarcações de grande porte"
+        },
+        {
+            "codigo": "3011-3/02",
+            "nome": "Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte"
+        },
+        {
+            "codigo": "3012-1/00",
+            "nome": "Construção de embarcações para esporte e lazer"
+        },
+        {
+            "codigo": "3031-8/00",
+            "nome": "Fabricação de locomotivas, vagões e outros materiais rodantes"
+        },
+        {
+            "codigo": "3032-6/00",
+            "nome": "Fabricação de peças e acessórios para veículos ferroviários"
+        },
+        {
+            "codigo": "3041-5/00",
+            "nome": "Fabricação de aeronaves"
+        },
+        {
+            "codigo": "3042-3/00",
+            "nome": "Fabricação de turbinas, motores e outros componentes e peças para aeronaves"
+        },
+        {
+            "codigo": "3050-4/00",
+            "nome": "Fabricação de veículos militares de combate"
+        },
+        {
+            "codigo": "3091-1/02",
+            "nome": "Fabricação de peças e acessórios para motocicletas"
+        },
+        {
+            "codigo": "3092-0/00",
+            "nome": "Fabricação de bicicletas e triciclos não-motorizados, peças e acessórios"
+        },
+        {
+            "codigo": "3099-7/00",
+            "nome": "Fabricação de equipamentos de transporte não especificados anteriormente"
+        },
+        {
+            "codigo": "3101-2/00",
+            "nome": "Fabricação de móveis com predominância de madeira"
+        },
+        {
+            "codigo": "3102-1/00",
+            "nome": "Fabricação de móveis com predominância de metal"
+        },
+        {
+            "codigo": "3103-9/00",
+            "nome": "Fabricação de móveis de outros materiais, exceto madeira e metal"
+        },
+        {
+            "codigo": "3104-7/00",
+            "nome": "Fabricação de colchões"
+        },
+        {
+            "codigo": "3211-6/01",
+            "nome": "Lapidação de gemas"
+        },
+        {
+            "codigo": "3211-6/02",
+            "nome": "Fabricação de artefatos de joalheria e ourivesaria"
+        },
+        {
+            "codigo": "3211-6/03",
+            "nome": "Cunhagem de moedas e medalhas"
+        },
+        {
+            "codigo": "3212-4/00",
+            "nome": "Fabricação de bijuterias e artefatos semelhantes"
+        },
+        {
+            "codigo": "3220-5/00",
+            "nome": "Fabricação de instrumentos musicais, peças e acessórios"
+        },
+        {
+            "codigo": "3230-2/00",
+            "nome": "Fabricação de artefatos para pesca e esporte"
+        },
+        {
+            "codigo": "3240-0/01",
+            "nome": "Fabricação de jogos eletrônicos"
+        },
+        {
+            "codigo": "3240-0/02",
+            "nome": "Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação"
+        },
+        {
+            "codigo": "3240-0/99",
+            "nome": "Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente"
+        },
+        {
+            "codigo": "3250-7/01",
+            "nome": "Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico"
+        },
+        {
+                "codigo": "3250-7/02",
+            "nome": "Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório"
+        },
+        {
+            "codigo": "3250-7/03",
+            "nome": "Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em gera"
+        },
+        {
+                "codigo": "3250-7/04",
+            "nome": "Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em g"
+        },
+        {
+                "codigo": "3250-7/05",
+            "nome": "Fabricação de materiais para medicina e odontologia"
+        },
+        {
+            "codigo": "3250-7/06",
+            "nome": "Serviços de prótese dentária"
+        },
+        {
+            "codigo": "3250-7/06",
+            "nome": "Serviços de prótese dentária"
+        },
+        {
+            "codigo": "3250-7/07",
+            "nome": "Fabricação de artigos ópticos"
+        },
+        {
+            "codigo": "3250-7/08",
+            "nome": "Fabricação de artefatos de tecido não tecido para uso odontomédicohospitalar"
+        },
+        {
+            "codigo": "3250-7/09",
+            "nome": "Serviço de laboratório óptico"
+        },
+        {
+            "codigo": "3250-7/09",
+            "nome": "Serviço de laboratório óptico"
+        },
+        {
+            "codigo": "3291-4/00",
+            "nome": "Fabricação de escovas, pincéis e vassouras"
+        },
+        {
+            "codigo": "3292-2/01",
+            "nome": "Fabricação de roupas de proteção e segurança e resistentes a fogo"
+        },
+        {
+            "codigo": "3292-2/02",
+            "nome": "Fabricação de equipamentos e acessórios para segurança pessoal e profissional"
+        },
+        {
+            "codigo": "3299-0/01",
+            "nome": "Fabricação de guarda-chuvas e similares"
+        },
+        {
+            "codigo": "3299-0/02",
+            "nome": "Fabricação de canetas, lápis e outros artigos para escritório"
+        },
+        {
+            "codigo": "3299-0/03",
+            "nome": "Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos"
+        },
+        {
+            "codigo": "3299-0/04",
+            "nome": "Fabricação de painéis e letreiros luminosos"
+        },
+        {
+            "codigo": "3299-0/05",
+            "nome": "Fabricação de aviamentos para costura"
+        },
+        {
+            "codigo": "3299-0/06",
+            "nome": "Fabricação de velas, inclusive decorativas"
+        },
+        {
+            "codigo": "3299-0/99",
+            "nome": "Fabricação de produtos diversos não especificados anteriormente"
+        },
+        {
+            "codigo": "3311-2/00",
+            "nome": "Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos"
+        },
+        {
+            "codigo": "3312-1/01",
+            "nome": "Manutenção e reparação de equipamentos transmissores de comunicação"
+        },
+        {
+            "codigo": "3312-1/02",
+            "nome": "Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle"
+        },
+        {
+            "codigo": "3312-1/03",
+            "nome": "Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação"
+        },
+        {
+            "codigo": "3312-1/04",
+            "nome": "Manutenção e reparação de equipamentos e instrumentos ópticos"
+        },
+        {
+            "codigo": "3313-9/01",
+            "nome": "Manutenção e reparação de geradores, transformadores e motores elétricos"
+        },
+        {
+            "codigo": "3313-9/02",
+            "nome": "Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos"
+        },
+        {
+            "codigo": "3313-9/99",
+            "nome": "Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente"
+        },
+        {
+            "codigo": "3314-7/01",
+            "nome": "Manutenção e reparação de máquinas motrizes não-elétricas"
+        },
+        {
+            "codigo": "3314-7/02",
+            "nome": "Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas"
+        },
+        {
+            "codigo": "3314-7/03",
+            "nome": "Manutenção e reparação de válvulas industriais"
+        },
+        {
+            "codigo": "3314-7/04",
+            "nome": "Manutenção e reparação de compressores"
+        },
+        {
+            "codigo": "3314-7/05",
+            "nome": "Manutenção e reparação de equipamentos de transmissão para fins industriais"
+        },
+        {
+            "codigo": "3314-7/06",
+            "nome": "Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas"
+        },
+        {
+            "codigo": "3314-7/07",
+            "nome": "Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e come"
+        },
+        {
+                "codigo": "3314-7/08",
+            "nome": "Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas"
+        },
+        {
+            "codigo": "3314-7/09",
+            "nome": "Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não-eletrônicos"
+        },
+        {
+                "codigo": "3314-7/10",
+            "nome": "Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente"
+        },
+        {
+            "codigo": "3314-7/11",
+            "nome": "Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária"
+        },
+        {
+            "codigo": "3314-7/12",
+            "nome": "Manutenção e reparação de tratores agrícolas"
+        },
+        {
+            "codigo": "3314-7/13",
+            "nome": "Manutenção e reparação de máquinas-ferramenta"
+        },
+        {
+            "codigo": "3314-7/14",
+            "nome": "Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo"
+        },
+        {
+            "codigo": "3314-7/15",
+            "nome": "Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extraç"
+        },
+        {
+                "codigo": "3314-7/16",
+            "nome": "Manutenção e reparação de tratores, exceto agrícolas"
+        },
+        {
+            "codigo": "3314-7/17",
+            "nome": "Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, e"
+        },
+        {
+                "codigo": "3314-7/18",
+            "nome": "Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta"
+        },
+        {
+            "codigo": "3314-7/19",
+            "nome": "Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo"
+        },
+        {
+            "codigo": "3314-7/20",
+            "nome": "Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e cal"
+        },
+        {
+                "codigo": "3314-7/21",
+            "nome": "Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e arte"
+        },
+        {
+                "codigo": "3314-7/22",
+            "nome": "Manutenção e reparação de máquinas e aparelhos para a indústria do plástico"
+        },
+        {
+            "codigo": "3314-7/99",
+            "nome": "Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especifi"
+        },
+        {
+                "codigo": "3315-5/00",
+            "nome": "Manutenção e reparação de veículos ferroviários"
+        },
+        {
+            "codigo": "3316-3/01",
+            "nome": "Manutenção e reparação de aeronaves, exceto a manutenção na pista"
+        },
+        {
+            "codigo": "3316-3/02",
+            "nome": "Manutenção de aeronaves na pista"
+        },
+        {
+            "codigo": "3317-1/01",
+            "nome": "Manutenção e reparação de embarcações e estruturas flutuantes"
+        },
+        {
+            "codigo": "3317-1/02",
+            "nome": "Manutenção e reparação de embarcações para esporte e lazer"
+        },
+        {
+            "codigo": "3319-8/00",
+            "nome": "Manutenção e reparação de equipamentos e produtos não especificados anteriormente"
+        },
+        {
+            "codigo": "3321-0/00",
+            "nome": "Instalação de máquinas e equipamentos industriais"
+        },
+        {
+            "codigo": "3329-5/01",
+            "nome": "Serviços de montagem de móveis de qualquer material"
+        },
+        {
+            "codigo": "3329-5/99",
+            "nome": "Instalação de outros equipamentos não especificados anteriormente"
+        },
+        {
+            "codigo": "3520-4/01",
+            "nome": "Produção de gás processamento de gás natural"
+        },
+        {
+            "codigo": "3520-4/02",
+            "nome": "Distribuição de combustíveis gasosos por redes urbanas"
+        },
+        {
+            "codigo": "3530-1/00",
+            "nome": "Produção e distribuição de vapor, água quente e ar condicionado"
+        },
+        {
+            "codigo": "3600-6/02",
+            "nome": "Distribuição de água por caminhões"
+        },
+        {
+            "codigo": "3702-9/00",
+            "nome": "Atividades relacionadas a esgoto, exceto a gestão de redes"
+        },
+        {
+            "codigo": "3811-4/00",
+            "nome": "Coleta de resíduos não-perigosos"
+        },
+        {
+            "codigo": "3812-2/00",
+            "nome": "Coleta de resíduos perigosos"
+        },
+        {
+            "codigo": "3831-9/01",
+            "nome": "Recuperação de sucatas de alumínio"
+        },
+        {
+            "codigo": "3831-9/99",
+            "nome": "Recuperação de materiais metálicos, exceto alumínio"
+        },
+        {
+            "codigo": "3832-7/00",
+            "nome": "Recuperação de materiais plásticos"
+        },
+        {
+            "codigo": "3839-4/01",
+            "nome": "Usinas de compostagem"
+        },
+        {
+            "codigo": "3839-4/99",
+            "nome": "Recuperação de materiais não especificados anteriormente"
+        },
+        {
+            "codigo": "4120-4/00",
+            "nome": "Construção de edifícios"
+        },
+        {
+            "codigo": "4211-1/01",
+            "nome": "Construção de rodovias e ferrovias"
+        },
+        {
+            "codigo": "4211-1/02",
+            "nome": "Pintura para sinalização em pistas rodoviárias e aeroportos"
+        },
+        {
+            "codigo": "4212-0/00",
+            "nome": "Construção de obras-de-arte especiais"
+        },
+        {
+            "codigo": "4213-8/00",
+            "nome": "Obras de urbanização – ruas, praças e calçadas"
+        },
+        {
+            "codigo": "4221-9/01",
+            "nome": "Construção de barragens e represas para geração de energia elétrica"
+        },
+        {
+            "codigo": "4221-9/02",
+            "nome": "Construção de estações e redes de distribuição de energia elétrica"
+        },
+        {
+            "codigo": "4221-9/03",
+            "nome": "Manutenção de redes de distribuição de energia elétrica"
+        },
+        {
+            "codigo": "4221-9/04",
+            "nome": "Construção de estações e redes de telecomunicações"
+        },
+        {
+            "codigo": "4221-9/05",
+            "nome": "Manutenção de estações e redes de telecomunicações"
+        },
+        {
+            "codigo": "4222-7/01",
+            "nome": "Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obr"
+        },
+        {
+                "codigo": "4222-7/02",
+            "nome": "Obras de irrigação"
+        },
+        {
+            "codigo": "4223-5/00",
+            "nome": "Construção de redes de transportes por dutos, exceto para água e esgoto"
+        },
+        {
+            "codigo": "4291-0/00",
+            "nome": "Obras portuárias, marítimas e fluviais"
+        },
+        {
+            "codigo": "4292-8/01",
+            "nome": "Montagem de estruturas metálicas"
+        },
+        {
+            "codigo": "4292-8/02",
+            "nome": "Obras de montagem industrial"
+        },
+        {
+            "codigo": "4299-5/01",
+            "nome": "Construção de instalações esportivas e recreativas"
+        },
+        {
+            "codigo": "4299-5/99",
+            "nome": "Outras obras de engenharia civil não especificadas anteriormente"
+        },
+        {
+            "codigo": "4311-8/01",
+            "nome": "Demolição de edifícios e outras estruturas"
+        },
+        {
+            "codigo": "4311-8/02",
+            "nome": "Preparação de canteiro e limpeza de terreno"
+        },
+        {
+            "codigo": "4312-6/00",
+            "nome": "Perfurações e sondagens"
+        },
+        {
+            "codigo": "4313-4/00",
+            "nome": "Obras de terraplenagem"
+        },
+        {
+            "codigo": "4319-3/00",
+            "nome": "Serviços de preparação do terreno não especificados anteriormente"
+        },
+        {
+            "codigo": "4321-5/00",
+            "nome": "Instalação e manutenção elétrica"
+        }
+    ]
+}
