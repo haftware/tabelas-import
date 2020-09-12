@@ -1595,11 +1595,10 @@
         },
         {
             "codigo": "2539-0/00",
-            "nome": "Serviços de usinagem, solda, tratamento e revestimento em metais (este serviço foi analisado como "
-        },utilizar o Sim II
-                    para tributar esta parte das receitas)</td>
+            "nome": "Serviços de usinagem, solda, tratamento e revestimento em metais (este serviço foi analisado como sendo prestado para terceiros. As empresas que realizam a produção própria para venda deverá utilizar o Sim II para tributar esta parte das receitas)"
+        },
         {
-                "codigo": "2539-0/01",
+            "codigo": "2539-0/01",
             "nome": "Serviços de usinagem, tornearia e solda"
         },
         {
