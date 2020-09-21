@@ -1,8 +1,12 @@
 {
     "valores": [
         {
-          "codigo": "ivo/pit",
+          "codigo": "ivo/pit/gui",
           "nome": "De Dani"
+        },
+        {
+          "codigo": "chipa",
+          "nome": "Amigao"
         },
         {
           "codigo": "0111-3/01",
