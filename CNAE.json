@@ -1,6 +1,10 @@
 {
     "valores": [
         {
+          "codigo": "ivo/pit",
+          "nome": "De Dani"
+        },
+        {
           "codigo": "0111-3/01",
           "nome": "Cultivo de arroz"
         },
