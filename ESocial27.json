@@ -1,0 +1,7034 @@
+{
+  "valores": [
+    {
+      "codigo": "1",
+      "nome": "1,1-dicloro-2,2-bis (P-clorofeniletileno)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "2",
+      "nome": "1,1,1‐tricloroetano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "3",
+      "nome": "1,2 dihidroxi-4-(N-acetilcisteinil)-butano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "4",
+      "nome": "1,25-dihidroxi vitamina D",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "5",
+      "nome": "1,2‐ciclo-hexanediol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "6",
+      "nome": "1,2-dibromo-3-cloropropano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "7",
+      "nome": "1,2‐diclorobenzeno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "8",
+      "nome": "1,2‐gliceril dinitrato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "9",
+      "nome": "1,3‐gliceril dinitrato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "10",
+      "nome": "1,5‐diaminonaftaleno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "11",
+      "nome": "17-cetogênicos (17-CGS)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "12",
+      "nome": "17-cetosteróides  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "13",
+      "nome": "17-cetosteróides relação alfa/beta",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "14",
+      "nome": "17-cetosteróides totais (17-CTS)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "15",
+      "nome": "17-hidroxicorticosteróides (17-OHS)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "16",
+      "nome": "17-hidroxipregnenolona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "17",
+      "nome": "1‐etoxi‐2‐propanol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "18",
+      "nome": "1‐hidroxipireno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "19",
+      "nome": "1-metoxi-2-propanol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "20",
+      "nome": "1‐naftol + 2-naftol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "21",
+      "nome": "2- amino-4-nitrofenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "22",
+      "nome": "2,2’ dicloro-4,4’metileno dianilina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "23",
+      "nome": "2,2-dimetil-1,3benzodioxol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "24",
+      "nome": "2,4-dinitroaminotolueno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "25",
+      "nome": "2,4 hidroxibifenil",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "26",
+      "nome": "2,5‐diclorofenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "27",
+      "nome": "2,5‐heptanediona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "28",
+      "nome": "2,5‐hexanediona + 4,5‐dihidroxi‐2‐hexanona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "29",
+      "nome": "2,5-hexanodiona urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "30",
+      "nome": "2,6-dinitroaminotolueno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "31",
+      "nome": "2-butanona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "32",
+      "nome": "2-dimetilamino-4-hidroxi-5,6-dimetilpirimidina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "33",
+      "nome": "2-etil, 5-hidroxi-hexil-ftalato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "34",
+      "nome": "2-etil-5-oxi-hexil-ftalato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "35",
+      "nome": "2-etilfenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "36",
+      "nome": "2-fenil 2-propanol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "37",
+      "nome": "2-isopropoxifenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "38",
+      "nome": "2-metilamino-4-hidroxi-5,6-dimetilpirimidina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "39",
+      "nome": "2-metilpentano sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "40",
+      "nome": "2-naftilamina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "41",
+      "nome": "3,4‐diclorocatecol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "42",
+      "nome": "3-alfa androstenediol glucoronídeo (3-ALFADIOL)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "43",
+      "nome": "3‐hidroxibenzopireno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "44",
+      "nome": "3-hidroxicarbofurano urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "45",
+      "nome": "3-metil histidina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "46",
+      "nome": "3-metil pentano sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "47",
+      "nome": "4,4- diaminodiciclohexil metano (DDHM)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "48",
+      "nome": "4,4’-metilenodianilina (MDA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "49",
+      "nome": "4,4‐diaminodifenilmetano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "50",
+      "nome": "4,4'‐metileno bis‐2-cloroanilina (MbOCA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "51",
+      "nome": "4,5‐diclorocatecol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "52",
+      "nome": "4,6-dinitro-o-cresol (DNOC) sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "53",
+      "nome": "4‐amino‐2,6‐dinitrotolueno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "54",
+      "nome": "4-amino-2-nitrofenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "55",
+      "nome": "4-amino-bifenil",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "56",
+      "nome": "4-clorocatecol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "57",
+      "nome": "4-Cloro-o-toluidina (derivados)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "58",
+      "nome": "4-etilfenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "59",
+      "nome": "4-metilpentan-2-ona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "60",
+      "nome": "5,6-dimetil-2-(metilamino)pirimidin-4-ol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "61",
+      "nome": "5-hidroximetil-pirrolidona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "62",
+      "nome": "5-hydroxi-N-metilpirrolidona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "63",
+      "nome": "5-nucleotidase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "64",
+      "nome": "Aberrações cromossômicas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "65",
+      "nome": "Absidia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "66",
+      "nome": "Acanthamoeba (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "67",
+      "nome": "Acetaminofen",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "68",
+      "nome": "Acetilcolinesterase eritrocitária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "69",
+      "nome": "Acetilcolinesterase plasmática",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "70",
+      "nome": "Acetona sanguínea  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "71",
+      "nome": "Acetona urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "72",
+      "nome": "Acidez titulável na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "73",
+      "nome": "Ácido 2,4-dinitrobenzoico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "74",
+      "nome": "Ácido 2,4,5-triclorofenoxiacético (2,4,5-T) urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "75",
+      "nome": "Ácido 2,4-diclorofenoxiacético (2,4-D) urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "76",
+      "nome": "Ácido 2‐hidroxi‐3‐butenil mercaptúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "77",
+      "nome": "Ácido 2‐hidroxipropil mercaptúrico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "78",
+      "nome": "Ácido 2-tiotiazolidina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "79",
+      "nome": "Ácido 2‐Tiotiazolidina‐4-carboxílico (TTCA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "80",
+      "nome": "Ácido 3,4‐dihidroxibutil mercaptúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "81",
+      "nome": "Ácido 3-fenoxibenzoico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "82",
+      "nome": "Ácido 3‐hidroxipropil mercaptúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "83",
+      "nome": "Ácido 4-cloro-2-metilfenoxiacético (MCPA) urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "84",
+      "nome": "Ácido 4‐fluoro‐3‐fenoxibenzoico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "85",
+      "nome": "Ácido 5 hidróxi-indolacético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "86",
+      "nome": "Ácido acético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "87",
+      "nome": "Ácido ascórbico (vitamina C)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "88",
+      "nome": "Ácido beta hidroxi-butírico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "89",
+      "nome": "Ácido butoxi-acético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "90",
+      "nome": "Ácido cacodílico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "91",
+      "nome": "Ácido cis‐ 3‐(2,2‐diclorovinil)‐2,2‐dimetilciclopropanocarboxilico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "92",
+      "nome": "Ácido cis‐3‐(2,2‐dibromovinil)‐2,2‐dimetilciclopropanocarboxilico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "93",
+      "nome": "Ácido cítrico na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "94",
+      "nome": "Ácido dehidroabiético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "95",
+      "nome": "Ácido delta aminolevulínico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "96",
+      "nome": "Ácido delta aminolevulínico desidratase (ALA-D)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "97",
+      "nome": "Ácido d-glucárico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "98",
+      "nome": "Ácido dimetilarsínico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "99",
+      "nome": "Ácido dimetilbenzoico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "100",
+      "nome": "Ácido etoxiacético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "101",
+      "nome": "Ácido fenilfosfórico urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "102",
+      "nome": "Ácido fenilglioxílico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "103",
+      "nome": "Ácido fenil-mercaptúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "104",
+      "nome": "Ácido fólico eritrocitário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "105",
+      "nome": "Ácido fórmico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "106",
+      "nome": "Ácido furoico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "107",
+      "nome": "Ácido glioxílico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "108",
+      "nome": "Ácido hidroxietil-mercaptúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "109",
+      "nome": "Ácido hipúrico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "110",
+      "nome": "Ácido homo vanílico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "111",
+      "nome": "Ácido homogentísico urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "112",
+      "nome": "Ácido láctico (lactato)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "113",
+      "nome": "Ácido mandélico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "114",
+      "nome": "Ácido mercaptúrico acrilamida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "115",
+      "nome": "Ácido metil malônico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "116",
+      "nome": "Ácido metilhipúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "117",
+      "nome": "Ácido metoxiacético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "118",
+      "nome": "Ácido metoxi-propiônico (ácido isobutírico)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "119",
+      "nome": "Ácido monometilarsônico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "120",
+      "nome": "Ácido orótico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "121",
+      "nome": "Ácido oxálico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "122",
+      "nome": "Ácido perfluorooctanoico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "123",
+      "nome": "Ácido perfluorooctanossulfônico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "124",
+      "nome": "Ácido pirúvico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "125",
+      "nome": "Ácido S‐(3‐Cloro‐2‐hidroxipropil) mercaptúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "126",
+      "nome": "Ácido S(n‐Propil)mercaptúrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "127",
+      "nome": "Ácido salicílico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "128",
+      "nome": "Ácido siálico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "129",
+      "nome": "Ácido tioglicólico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "130",
+      "nome": "Ácido trans, trans-mucônico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "131",
+      "nome": "Ácido trans‐3‐(2,2‐diclorovinil)‐ 2,2‐dimetilciclopropanocarboxilico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "132",
+      "nome": "Ácido trans‐crisantemum-dicarboxilico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "133",
+      "nome": "Ácido tricloroacético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "134",
+      "nome": "Ácido trifluoroacético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "135",
+      "nome": "Ácido úrico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "136",
+      "nome": "Ácido valproico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "137",
+      "nome": "Ácido vanilmandélico (VMA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "138",
+      "nome": "Ácido β‐Hidroxietoxi acético",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "139",
+      "nome": "Ácidos graxos livres  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "140",
+      "nome": "Ácidos orgânicos (perfil quantitativo)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "141",
+      "nome": "Acilcarnitinas (perfil qualitativo)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "142",
+      "nome": "Actinobacillus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "143",
+      "nome": "Actinomadura (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "144",
+      "nome": "Actinomyces (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "145",
+      "nome": "Adenilatoquinase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "146",
+      "nome": "Adenovírus, IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "147",
+      "nome": "Adenovírus, IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "148",
+      "nome": "Adrenocorticotrófico, hormônio (ACTH)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "149",
+      "nome": "Adutos de DNA (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "150",
+      "nome": "Adutos de proteínas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "151",
+      "nome": "Aflatoxinas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "152",
+      "nome": "Agente da doença crônica emaciante (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "153",
+      "nome": "Agente da Doença de Creutzfeldt-Jakob esporádica (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "154",
+      "nome": "Agente da Doença de Creutzfeldt-Jakob familiar (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "155",
+      "nome": "Agente da Doença de Creutzfeldt-Jakob iatrogênica (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "156",
+      "nome": "Agente da Doença de Creutzfeldt-Jakob variante (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "157",
+      "nome": "Agente da encefalopatia espongiforme bovina (BSE) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "158",
+      "nome": "Agente da encefalopatia espongiforme bovina tipo-H (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "159",
+      "nome": "Agente da encefalopatia espongiforme em ungulados exóticos (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "160",
+      "nome": "Agente da encefalopatia espongiforme felina (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "161",
+      "nome": "Agente da insônia fatal esporádica (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "162",
+      "nome": "Agente da insônia fatal familiar de Gerstmann-Sträussler-Scheinker (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "163",
+      "nome": "Agente da Kuru (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "164",
+      "nome": "Agente da prionopatia- variante protease-resistente (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "165",
+      "nome": "Agente do tremor epizoótico (Scrapie disease) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "166",
+      "nome": "Agente do tremor epizoótico (Scrapie disease) atípico (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "167",
+      "nome": "Ajellomyces (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "168",
+      "nome": "Albumina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "169",
+      "nome": "Albumina S‐Metilcisteína",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "170",
+      "nome": "Alcaligenes (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "171",
+      "nome": "Alcaptonúria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "172",
+      "nome": "Aldolase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "173",
+      "nome": "Aldosterona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "174",
+      "nome": "Alérgenos - perfil antigênico (painel C/36 antígenos)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "175",
+      "nome": "Alfa-1 microglobulina na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "176",
+      "nome": "Alfa-1-antitripsina, dosagem no soro  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "177",
+      "nome": "Alfa-1-glicoproteína ácida  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "178",
+      "nome": "Alfa-2-antiplasmina, teste funcional",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "179",
+      "nome": "Alfa-2-macroglobulina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "180",
+      "nome": "Alfa-amilase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "181",
+      "nome": "Alfa-fetoproteína  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "182",
+      "nome": "Alfa-hexaclorociclo-hexano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "183",
+      "nome": "Alumínio plasmático  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "184",
+      "nome": "Alumínio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "185",
+      "nome": "Amebíase, IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "186",
+      "nome": "Amebíase, IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "187",
+      "nome": "Amilase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "188",
+      "nome": "Aminoácidos, fracionamento e quantificação",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "189",
+      "nome": "Amiodarona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "190",
+      "nome": "Amitriptilina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "191",
+      "nome": "Amônia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "192",
+      "nome": "AMP cíclico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "193",
+      "nome": "Ancylostoma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "194",
+      "nome": "Androstenediona  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "195",
+      "nome": "Anfetaminas  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "196",
+      "nome": "Angiostrongylus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "197",
+      "nome": "Anilina sanguínea",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "198",
+      "nome": "Anilina urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "199",
+      "nome": "Anilina-hemoglobina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "200",
+      "nome": "Anisakis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "201",
+      "nome": "Anti-12-hidroxi-endrin  urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "202",
+      "nome": "Anti-actina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "203",
+      "nome": "Antibiograma",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "204",
+      "nome": "Antibióticos, dosagem no soro",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "205",
+      "nome": "Anticandida - IgG e IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "206",
+      "nome": "Anticardiolipina - IgA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "207",
+      "nome": "Anticardiolipina - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "208",
+      "nome": "Anticardiolipina - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "209",
+      "nome": "Anticentrômero  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "210",
+      "nome": "Anticoagulante lúpico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "211",
+      "nome": "Anticorpo anti A e B  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "212",
+      "nome": "Anticorpo anti Saccharamyces - ASCA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "213",
+      "nome": "Anticorpo anti-DNAse B  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "214",
+      "nome": "Anticorpo anti-hormônio do crescimento  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "215",
+      "nome": "Anticorpo antimieloperoxidase, MPO",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "216",
+      "nome": "Anticorpo anti-receptor de TSH (TRAB)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "217",
+      "nome": "Anticorpo antivírus da hepatite E  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "218",
+      "nome": "Anticorpos antiendomisio - IgG, IgM, IgA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "219",
+      "nome": "Anticorpos anti-ilhota de langherans  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "220",
+      "nome": "Anticorpos anti-influenza A, IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "221",
+      "nome": "Anticorpos anti-influenza A, IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "222",
+      "nome": "Anticorpos anti-influenza B, IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "223",
+      "nome": "Anticorpos anti-influenza B, IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "224",
+      "nome": "Anticorpos antiinsulina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "225",
+      "nome": "Anticorpos antiplaquetários, citometria de fluxo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "226",
+      "nome": "Anticorpos antitireóide (tireoglobulina)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "227",
+      "nome": "Anticorpos irregulares",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "228",
+      "nome": "Anticortex supra-renal  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "229",
+      "nome": "Antidesoxiribonuclease B",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "230",
+      "nome": "Anti-DMP  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "231",
+      "nome": "Anti-DNA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "232",
+      "nome": "Antiescleroderma",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "233",
+      "nome": "Antifígado",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "234",
+      "nome": "Antígeno Austrália (HBSAG)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "235",
+      "nome": "Antígeno carcinoembriogênico (CEA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "236",
+      "nome": "Antígeno de diferenciação celular",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "237",
+      "nome": "Antígeno específico prostático livre (PSA livre)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "238",
+      "nome": "Antígeno específico prostático total (PSA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "239",
+      "nome": "Antígenos fúngicos, pesquisa  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "240",
+      "nome": "Antígenos metílicos solúveis do BCG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "241",
+      "nome": "Antigliadina (glúten) - IgA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "242",
+      "nome": "Antigliadina (glúten) - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "243",
+      "nome": "Antigliadina (glúten) - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "244",
+      "nome": "Anti-hialuronidase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "245",
+      "nome": "Anti-JO1  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "246",
+      "nome": "Anti-LA/SSB  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "247",
+      "nome": "Anti-LKM-1  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "248",
+      "nome": "Antimembrana basal  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "249",
+      "nome": "Antimicrossomal",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "250",
+      "nome": "Antimitocondria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "251",
+      "nome": "Antimitocondria, M2  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "252",
+      "nome": "Antimônio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "253",
+      "nome": "Antimúsculo cardíaco  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "254",
+      "nome": "Antimúsculo estriado  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "255",
+      "nome": "Antimúsculo liso",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "256",
+      "nome": "Antineutrófilos (anca) C  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "257",
+      "nome": "Antineutrófilos (anca) P  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "258",
+      "nome": "Antiparietal",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "259",
+      "nome": "Antiperoxidase tireoideana  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "260",
+      "nome": "Anti-RNP",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "261",
+      "nome": "Anti-Ro/SSA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "262",
+      "nome": "Anti-Sm  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "263",
+      "nome": "Anti-TPO  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "264",
+      "nome": "Antitrombina III",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "265",
+      "nome": "Antrax (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "266",
+      "nome": "Apolipoproteína A (Apo A)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "267",
+      "nome": "Apolipoproteína B (Apo B)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "268",
+      "nome": "Apolipoproteína E",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "269",
+      "nome": "Apolipoproteína E",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "270",
+      "nome": "Arcanobacterium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "271",
+      "nome": "Arsênico +III urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "272",
+      "nome": "Arsênico +V urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "273",
+      "nome": "Arsênico capilar",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "274",
+      "nome": "Arsênico Inorgânico urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "275",
+      "nome": "Arsênio - metabólitos metilados urinários",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "276",
+      "nome": "Ascaris (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "277",
+      "nome": "Aslo  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "278",
+      "nome": "Aspergillus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "279",
+      "nome": "Aspergilus, reação sorológica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "280",
+      "nome": "Ativador tissular de plasminogênio (TPA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "281",
+      "nome": "Audiometria (tipo Von Bekesy)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "282",
+      "nome": "Audiometria de tronco cerebral (PEA) BERA",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "283",
+      "nome": "Audiometria tonal limiar com testes de discriminação",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "284",
+      "nome": "Audiometria vocal - pesquisa de limiar de discriminação",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "285",
+      "nome": "Audiometria vocal - pesquisa de limiar de inteligibilidade",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "286",
+      "nome": "Avaliação Clínica com ênfase Cárdiocirculatória (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "287",
+      "nome": "Avaliação Clínica com ênfase Dermatológica (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "288",
+      "nome": "Avaliação Clínica com ênfase Gastrointestinal (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "289",
+      "nome": "Avaliação Clínica com ênfase Mental (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "290",
+      "nome": "Avaliação Clínica com ênfase Neurológca (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "291",
+      "nome": "Avaliação Clínica com ênfase Neurossensorial (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "292",
+      "nome": "Avaliação Clínica com ênfase Ortopédica (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "293",
+      "nome": "Avaliação Clínica com ênfase Respiratória (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "294",
+      "nome": "Avaliação Clínica com ênfase Urogenital (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "295",
+      "nome": "Avaliação Clínica Ocupacional (Anamnese e Exame físico)",
+      "natureza": "CLINICO"
+    },
+    {
+      "codigo": "296",
+      "nome": "Avaliação da acuidade visual",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "297",
+      "nome": "Avaliação da estereopsia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "298",
+      "nome": "Avaliação da visão de cores",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "299",
+      "nome": "Avaliação do campo visual",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "300",
+      "nome": "Avaliação Psicossocial",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "301",
+      "nome": "Azida sódica, teste da",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "302",
+      "nome": "B.A.A.R. (Ziehl ou fluorescência)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "303",
+      "nome": "Babesia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "304",
+      "nome": "Bacillus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "305",
+      "nome": "Bacterioscopia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "306",
+      "nome": "Bacteroides (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "307",
+      "nome": "Balantidium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "308",
+      "nome": "Barbitúricos, antidepressivos tricíclicos  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "309",
+      "nome": "Bário urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "310",
+      "nome": "Bartituratos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "311",
+      "nome": "Bartonella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "312",
+      "nome": "Benzeno urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "313",
+      "nome": "Benzidina eritrocitária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "314",
+      "nome": "Benzidina urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "315",
+      "nome": "Benzodiazepínicos e similares",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "316",
+      "nome": "Berílio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "317",
+      "nome": "Beta mercapto-lactato-disulfidúria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "318",
+      "nome": "Beta-2-microglobulina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "319",
+      "nome": "Beta-glicuronidase  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "320",
+      "nome": "Beta-hexaclorociclo-hexano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "321",
+      "nome": "Bilirrubinas (direta, indireta e total)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "322",
+      "nome": "Biotinidase atividade  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "323",
+      "nome": "Bisfenol A (4,4-isopropiledenedifenol)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "324",
+      "nome": "Bismuto plasmático",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "325",
+      "nome": "Bismuto urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "326",
+      "nome": "Blastocystis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "327",
+      "nome": "Blastomicose, reação sorológica",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "328",
+      "nome": "Blastomyces (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "329",
+      "nome": "Bocavirus humano (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "330",
+      "nome": "Boro",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "331",
+      "nome": "Borrelia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "332",
+      "nome": "Brachispira (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "333",
+      "nome": "Brometo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "334",
+      "nome": "Bromofós sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "335",
+      "nome": "Bromofós urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "336",
+      "nome": "Brucela - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "337",
+      "nome": "Brucela - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "338",
+      "nome": "Brucela, prova rápida  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "339",
+      "nome": "Brucella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "340",
+      "nome": "Brugia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "341",
+      "nome": "Bunyavírus germiston (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "342",
+      "nome": "Burkholderia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "343",
+      "nome": "Buta-2-ona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "344",
+      "nome": "Butanol sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "345",
+      "nome": "C1q  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "346",
+      "nome": "C3 proativador",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "347",
+      "nome": "C3A (fator B)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "348",
+      "nome": "CA 50  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "349",
+      "nome": "CA-242  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "350",
+      "nome": "CA-27-29  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "351",
+      "nome": "Cádmio sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "352",
+      "nome": "Cádmio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "353",
+      "nome": "Cálcio  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "354",
+      "nome": "Cálcio iônico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "355",
+      "nome": "Calcitonina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "356",
+      "nome": "Campylobacter (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "357",
+      "nome": "Campylobacter (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "358",
+      "nome": "Candida (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "359",
+      "nome": "Capacidade de fixação de ferro",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "360",
+      "nome": "Capillaria (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "361",
+      "nome": "Carbendazim",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "362",
+      "nome": "Carbamazepina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "363",
+      "nome": "Carbofuranfenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "364",
+      "nome": "Carboxihemoglobina   ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "365",
+      "nome": "Cardiobacterium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "366",
+      "nome": "Carnitina livre  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "367",
+      "nome": "Carnitina total e frações  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "368",
+      "nome": "Caroteno  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "369",
+      "nome": "Catecolaminas  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "370",
+      "nome": "Catecolaminas fracionadas - dopamina, epinefrina, norepinefrina na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "371",
+      "nome": "Caxumba, IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "372",
+      "nome": "Caxumba, IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "373",
+      "nome": "CEE vírus, pesquisa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "374",
+      "nome": "Células LE",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "375",
+      "nome": "Ceruloplasmina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "376",
+      "nome": "Césio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "377",
+      "nome": "Chagas IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "378",
+      "nome": "Chagas IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "379",
+      "nome": "Chlamydia - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "380",
+      "nome": "Chlamydia - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "381",
+      "nome": "Chlamydia, cultura  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "382",
+      "nome": "Chlamydophila (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "383",
+      "nome": "Chlormequat",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "384",
+      "nome": "Chumbo dietila",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "385",
+      "nome": "Chumbo sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "386",
+      "nome": "Chumbo total",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "387",
+      "nome": "Chumbo urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "388",
+      "nome": "Cianeto (cianureto) sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "389",
+      "nome": "Ciclofosfamida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "390",
+      "nome": "Ciclo-hexanodiol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "391",
+      "nome": "Ciclo-hexanol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "392",
+      "nome": "Ciclosporina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "393",
+      "nome": "Cisticercose, AC  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "394",
+      "nome": "Cistinúria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "395",
+      "nome": "cis-δ4 tetrahidroftalimida (THPI)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "396",
+      "nome": "Citomegalovírus - shell vial  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "397",
+      "nome": "Citomegalovírus IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "398",
+      "nome": "Citomegalovírus IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "399",
+      "nome": "Cladophialophora (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "400",
+      "nome": "Cladosporium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "401",
+      "nome": "Clamídia, pesquisa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "402",
+      "nome": "Clearance de ácido úrico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "403",
+      "nome": "Clearance de creatinina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "404",
+      "nome": "Clearance de fosfato  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "405",
+      "nome": "Clearance de uréia  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "406",
+      "nome": "Clearance osmolar  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "407",
+      "nome": "Clomipramina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "408",
+      "nome": "Clonorchis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "409",
+      "nome": "Cloreto de metileno sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "410",
+      "nome": "Cloro  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "411",
+      "nome": "Clorofenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "412",
+      "nome": "Clorofórmio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "413",
+      "nome": "Clostridium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "414",
+      "nome": "Clostridium difficile, toxina A",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "415",
+      "nome": "Coagulograma",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "416",
+      "nome": "Cobalto sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "417",
+      "nome": "Cobalto urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "418",
+      "nome": "Cobre sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "419",
+      "nome": "Cobre urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "420",
+      "nome": "Cocaína",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "421",
+      "nome": "Coccidioides (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "422",
+      "nome": "Cólera (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "423",
+      "nome": "Colesterol (HDL)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "424",
+      "nome": "Colesterol (LDL)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "425",
+      "nome": "Colesterol (VLDL)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "426",
+      "nome": "Colesterol total  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "427",
+      "nome": "Complemento C2  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "428",
+      "nome": "Complemento C3",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "429",
+      "nome": "Complemento C4  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "430",
+      "nome": "Complemento C5",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "431",
+      "nome": "Complemento CH-100  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "432",
+      "nome": "Complemento CH-50  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "433",
+      "nome": "Composto S (11-desoxicortisol)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "434",
+      "nome": "Consumo de protrombina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "435",
+      "nome": "Contagem de eosinófilos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "436",
+      "nome": "Contagem sanguínea diferencial",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "437",
+      "nome": "Contagem sedimentar de Addis  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "438",
+      "nome": "Contracaecum (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "439",
+      "nome": "Coombs direto  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "440",
+      "nome": "Coombs indireto  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "441",
+      "nome": "Coprológico funcional (caracteres, pH, digestibilidade, amônia, ácidos orgânicos e interpretação)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "442",
+      "nome": "Coproporfirina III na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "443",
+      "nome": "Coproporfirinas",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "444",
+      "nome": "Coronavírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "445",
+      "nome": "Coronavírus humano 229E (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "446",
+      "nome": "Coronavírus relacionado à MERS (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "447",
+      "nome": "Coronavírus relacionado à SARS (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "448",
+      "nome": "Corpos cetônicos na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "449",
+      "nome": "Corpúsculos de Donovani",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "450",
+      "nome": "Cortisol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "451",
+      "nome": "Cortisol livre  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "452",
+      "nome": "Corynebacterium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "453",
+      "nome": "Cotinina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "454",
+      "nome": "Coxiella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "455",
+      "nome": "Creatina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "456",
+      "nome": "Creatinina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "457",
+      "nome": "Creatino fosfoquinase - fração MB  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "458",
+      "nome": "Creatino fosfoquinase total (CK)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "459",
+      "nome": "Cresol urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "460",
+      "nome": "Crioaglutinina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "461",
+      "nome": "Crioglobulinas",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "462",
+      "nome": "Criptococo (tinta da China), pesquisa de",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "463",
+      "nome": "Cromatografia de açúcares na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "464",
+      "nome": "Cromatografia de aminoácidos  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "465",
+      "nome": "Cromo eritrocitário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "466",
+      "nome": "Cromo sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "467",
+      "nome": "Cromo urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "468",
+      "nome": "Cromossomo philadelfia  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "469",
+      "nome": "Cryptococcus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "470",
+      "nome": "Cryptosporidium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "471",
+      "nome": "Cultura bacteriana  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "472",
+      "nome": "Cultura nas fezes: salmonela, shigellae e esc. Coli enteropatogênicas, enteroinvasora (sorol. Incluída) + campylobacter SP. + E. Coli enterohemorrágica",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "473",
+      "nome": "Cultura para bactérias anaeróbicas",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "474",
+      "nome": "Cultura para Criptosporidium",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "475",
+      "nome": "Cultura para fungos  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "476",
+      "nome": "Cultura para Mycobacterium  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "477",
+      "nome": "Cultura quantitativa de secreções pulmonares",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "478",
+      "nome": "Curva glicêmica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "479",
+      "nome": "Curva insulínica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "480",
+      "nome": "Cyclospora (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "481",
+      "nome": "Dehidroepiandrosterona (DHEA)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "482",
+      "nome": "Dehidrotestosterona (DHT)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "483",
+      "nome": "Dengue - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "484",
+      "nome": "Dengue - IgM",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "485",
+      "nome": "Desidrogenase alfa-hidroxibutírica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "486",
+      "nome": "Desidrogenase glutâmica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "487",
+      "nome": "Desidrogenase isocítrica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "488",
+      "nome": "Desidrogenase láctica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "489",
+      "nome": "Desipramina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "490",
+      "nome": "Desoxicorticosterona  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "491",
+      "nome": "Dialdeído malônico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "492",
+      "nome": "Diclorodifenil tricloroetano (DDT) sanguíneo  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "493",
+      "nome": "Diclorodifenildicloroetileno (DDE) sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "494",
+      "nome": "Dicloroetano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "495",
+      "nome": "Dicloroeteno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "496",
+      "nome": "Diclorometano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "497",
+      "nome": "Dicrocoelium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "498",
+      "nome": "Dieldrin sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "499",
+      "nome": "Dientamoeba (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "500",
+      "nome": "Dietilditiofosfato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "501",
+      "nome": "Dietilditiofosfato urinário (DEDTP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "502",
+      "nome": "Dietilestilbestrol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "503",
+      "nome": "Dietilfosfato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "504",
+      "nome": "Dietilfosfato urinário (DEP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "505",
+      "nome": "Dietilltiofosfato urinário (DETP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "506",
+      "nome": "Dietiltiofosfato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "507",
+      "nome": "Digitoxina ou digoxina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "508",
+      "nome": "Dímero D",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "509",
+      "nome": "Dimetilditiofosfato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "510",
+      "nome": "Dimetilditiofosfato urinário (DMDTP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "511",
+      "nome": "Dimetilfosfato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "512",
+      "nome": "Dimetilfosfato urinário (DMP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "513",
+      "nome": "Dimetil-selênio respiratório (ar expirado)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "514",
+      "nome": "Dimetiltiofosfato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "515",
+      "nome": "Dimetiltiofosfato urinário (DMTP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "516",
+      "nome": "Di‐n‐butil fosfato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "517",
+      "nome": "Dinitrato-etileno-glicol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "518",
+      "nome": "Dinitrofenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "519",
+      "nome": "Dinoseb",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "520",
+      "nome": "Dipetalonema (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "521",
+      "nome": "Diphyllobothrium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "522",
+      "nome": "Diquat urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "523",
+      "nome": "Dissulfeto de carbono",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "524",
+      "nome": "DNCB Teste de Contato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "525",
+      "nome": "Doppler colorido arterial de membro inferior",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "526",
+      "nome": "Doppler colorido arterial de membro superior  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "527",
+      "nome": "Dosagem de receptor de progesterona ou de estrogênio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "528",
+      "nome": "Dracunculus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "529",
+      "nome": "Ebola (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "530",
+      "nome": "ECG convencional de até 12 derivações",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "531",
+      "nome": "ECG de alta resolução  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "532",
+      "nome": "Echinococcus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "533",
+      "nome": "Echovírus (painel) sorologia para",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "534",
+      "nome": "Echovírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "535",
+      "nome": "Edwardsiella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "536",
+      "nome": "EEG de rotina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "537",
+      "nome": "Ehrlichia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "538",
+      "nome": "Eikenella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "539",
+      "nome": "Eletroferese de proteínas  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "540",
+      "nome": "Eletroforese de glicoproteínas  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "541",
+      "nome": "Eletroforese de lipoproteínas",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "542",
+      "nome": "Eletroforese de proteínas urinárias",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "543",
+      "nome": "Eletroneuromiografia de MMII",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "544",
+      "nome": "Eletroneuromiografia de MMSS",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "545",
+      "nome": "Elizabethkingia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "546",
+      "nome": "Emmonsia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "547",
+      "nome": "Encefalite japonesa B (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "548",
+      "nome": "Encephalitozoon (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "549",
+      "nome": "Endotoxinas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "550",
+      "nome": "Endrin sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "551",
+      "nome": "Enolase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "552",
+      "nome": "Entamoeba (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "553",
+      "nome": "Enterobacter (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "554",
+      "nome": "Enterobius (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "555",
+      "nome": "Enterococcus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "556",
+      "nome": "Enterocytozoon (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "557",
+      "nome": "Enterovirus Humano A, B e C (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "558",
+      "nome": "Enzima conversora da angiotensina (ECA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "559",
+      "nome": "Enzimas eritrocitárias",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "560",
+      "nome": "Epidermophyton (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "561",
+      "nome": "Equinococose (Hidatidose), reação",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "562",
+      "nome": "Ergoespirometria ou teste cardiopulmonar de exercício completo (espirometria forçada, consumo de O2, produção de CO2 e derivados, ECG, oximetria)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "563",
+      "nome": "Eritropoietina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "564",
+      "nome": "Erysipelothrix (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "565",
+      "nome": "Escândio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "566",
+      "nome": "Escherichia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "567",
+      "nome": "Escherichia coli (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "568",
+      "nome": "Espermograma",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "569",
+      "nome": "Esplenograma (citologia)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "570",
+      "nome": "Esporotricose, reação sorológica",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "571",
+      "nome": "Esporotriquina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "572",
+      "nome": "Estanho urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "573",
+      "nome": "Estireno sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "574",
+      "nome": "Estradiol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "575",
+      "nome": "Estreptozima  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "576",
+      "nome": "Estriol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "577",
+      "nome": "Estrogênios totais (fenolesteróides)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "578",
+      "nome": "Estrona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "579",
+      "nome": "Estrôncio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "580",
+      "nome": "Etanol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "581",
+      "nome": "Etilenotioureia (ETU)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "582",
+      "nome": "Etossuximida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "583",
+      "nome": "Exame a fresco de amostra biológica",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "584",
+      "nome": "Exame bacteriológico de fezes",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "585",
+      "nome": "Exame de fundo de olho",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "586",
+      "nome": "Exophiala (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "587",
+      "nome": "Falcização, teste de  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "588",
+      "nome": "Fasciola (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "589",
+      "nome": "Fasciolopsis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "590",
+      "nome": "Fator 4 plaquetário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "591",
+      "nome": "Fator antinúcleo, (FAN)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "592",
+      "nome": "Fator II",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "593",
+      "nome": "Fator IX",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "594",
+      "nome": "Fator reumatóide",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "595",
+      "nome": "Fator V  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "596",
+      "nome": "Fator V de Leiden  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "597",
+      "nome": "Fator VII",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "598",
+      "nome": "Fator VIII",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "599",
+      "nome": "Fator VIII, dosagem do antígeno (Von Willebrand)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "600",
+      "nome": "Fator VIII, dosagem do inibidor",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "601",
+      "nome": "Fator X",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "602",
+      "nome": "Fator XI",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "603",
+      "nome": "Fator XII",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "604",
+      "nome": "Fator XIII",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "605",
+      "nome": "Fenilalanina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "606",
+      "nome": "Fenilcetonúria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "607",
+      "nome": "Fenitoína  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "608",
+      "nome": "Fenobarbital  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "609",
+      "nome": "Fenol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "610",
+      "nome": "Fenotipagem do sistema Rh-Hr (anti Rho(D) + anti Rh(C) + anti Rh(E)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "611",
+      "nome": "Fenotipagem do sistema RH-HR (D, C, E, C E C)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "612",
+      "nome": "Ferritina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "613",
+      "nome": "Ferro sérico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "614",
+      "nome": "Fibrinogênio, teste funcional",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "615",
+      "nome": "Filária (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "616",
+      "nome": "Filaria (sorologia)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "617",
+      "nome": "Filobasidiella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "618",
+      "nome": "Flavobacterium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "619",
+      "nome": "Flavovírus, pesquisa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "620",
+      "nome": "Fluazifop urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "621",
+      "nome": "Flufenoxuron sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "622",
+      "nome": "Flúor sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "623",
+      "nome": "Flúor urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "624",
+      "nome": "Fluoreto urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "625",
+      "nome": "Fluoribacter (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "626",
+      "nome": "Folículo estimulante, hormônio (FSH)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "627",
+      "nome": "Fonsecaea (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "628",
+      "nome": "Formaldeído",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "629",
+      "nome": "Fosfatase ácida fração prostática  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "630",
+      "nome": "Fosfatase ácida total  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "631",
+      "nome": "Fosfatase alcalina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "632",
+      "nome": "Fosfatase alcalina fração óssea  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "633",
+      "nome": "Fosfatase alcalina termo-estável  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "634",
+      "nome": "Fosfina sanguínea",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "635",
+      "nome": "Fosfofructoquinase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "636",
+      "nome": "Fosfoglicerato quinase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "637",
+      "nome": "Fosfolipídios",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "638",
+      "nome": "Fósforo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "639",
+      "nome": "Francisella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "640",
+      "nome": "Frutosaminas  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "641",
+      "nome": "Frutose  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "642",
+      "nome": "Frutosúria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "643",
+      "nome": "Fungos, pesquisa a fresco  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "644",
+      "nome": "Fusarium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "645",
+      "nome": "Fusobacterium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "646",
+      "nome": "Gad-Ab-antidescarboxilase do ácido",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "647",
+      "nome": "Gadolínio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "648",
+      "nome": "Galactose",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "649",
+      "nome": "Galactose 1-fosfatouridil transferase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "650",
+      "nome": "Galactosúria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "651",
+      "nome": "Gálio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "652",
+      "nome": "Gama-glutamil transferase (Gama-GT)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "653",
+      "nome": "Gardnerella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "654",
+      "nome": "Gastrina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "655",
+      "nome": "Geotrichum (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "656",
+      "nome": "Giardia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "657",
+      "nome": "Giardia (sorologia)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "658",
+      "nome": "Glicemia   ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "659",
+      "nome": "Glicemia após sobrecarga com dextrosol ou glicose",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "660",
+      "nome": "Gliceraldeído, 3-fosfato desidrogenase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "661",
+      "nome": "Glicose 6-fosfato desidrogenase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "662",
+      "nome": "Glicose fosfato isomerase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "663",
+      "nome": "Glifosato",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "664",
+      "nome": "Globulina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "665",
+      "nome": "Globulina de ligação de hormônios sexuais (SHBG)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "666",
+      "nome": "Globulina transportadora da tiroxina (TBG)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "667",
+      "nome": "Glucagon",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "668",
+      "nome": "Glutation",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "669",
+      "nome": "Glutation peroxidase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "670",
+      "nome": "Gonococo - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "671",
+      "nome": "Gonococo - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "672",
+      "nome": "Grupo ABO, classificação reversa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "673",
+      "nome": "Grupo sanguíneo ABO, e fator Rho (inclui Du)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "674",
+      "nome": "Haemophilus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "675",
+      "nome": "Háfnio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "676",
+      "nome": "Ham, teste de (hemólise ácida)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "677",
+      "nome": "Hansen, pesquisa de  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "678",
+      "nome": "Haptoglobina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "679",
+      "nome": "Heinz, corpúsculos  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "680",
+      "nome": "Helicobacter (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "681",
+      "nome": "Helicobacter pylori - IgA",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "682",
+      "nome": "Helicobacter pylori - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "683",
+      "nome": "Helicobacter pylori - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "684",
+      "nome": "Hemácias fetais",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "685",
+      "nome": "Hematócrito",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "686",
+      "nome": "Hemocultura",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "687",
+      "nome": "Hemoglobina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "688",
+      "nome": "Hemoglobina (eletroforese ou HPLC)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "689",
+      "nome": "Hemoglobina glicada (A1 total)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "690",
+      "nome": "Hemoglobina glicada (Fração A1c)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "691",
+      "nome": "Hemoglobina plasmática livre  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "692",
+      "nome": "Hemoglobina, solubilidade (HbS e HbD)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "693",
+      "nome": "Hemograma com contagem de plaquetas ou frações (eritrograma, leucograma, plaquetas)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "694",
+      "nome": "Hemophilus (bordetella) pertussis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "695",
+      "nome": "Hemossedimentação, (VHS)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "696",
+      "nome": "Hemossiderina (siderócitos), sangue  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "697",
+      "nome": "Hemossiderina (siderócitos), urina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "698",
+      "nome": "Heparina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "699",
+      "nome": "Hepatite A - HAV - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "700",
+      "nome": "Hepatite A - HAV - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "701",
+      "nome": "Hepatite B - HBCAC  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "702",
+      "nome": "Hepatite B - HBCAC - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "703",
+      "nome": "Hepatite B - HBeAC (anti HBE)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "704",
+      "nome": "Hepatite B - HBSAC  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "705",
+      "nome": "Hepatite C - anti-HCV - IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "706",
+      "nome": "Hepatite C - anti-HCV - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "707",
+      "nome": "Hepatite delta, anticorpo IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "708",
+      "nome": "Hepatite delta, anticorpo IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "709",
+      "nome": "Hepatite delta, antigeno  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "710",
+      "nome": "Heptacloro-epóxido",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "711",
+      "nome": "HER-2 - dosagem do receptor  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "712",
+      "nome": "Herpes simples - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "713",
+      "nome": "Herpes simples - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "714",
+      "nome": "Herpes zoster - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "715",
+      "nome": "Herpes zoster - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "716",
+      "nome": "Herpesvírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "717",
+      "nome": "Heterophyes (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "718",
+      "nome": "Hexaclorobenzeno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "719",
+      "nome": "Hexafluoroisopropanol (HFIP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "720",
+      "nome": "Hexametilenediamina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "721",
+      "nome": "Hexona (metil isobutil cetona)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "722",
+      "nome": "Hexosaminidase A",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "723",
+      "nome": "Hidrazina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "724",
+      "nome": "Hidroxiprogesterona  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "725",
+      "nome": "Hidroxiprolina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "726",
+      "nome": "Hipersensibilidade retardada (intradermo reação IDeR )",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "727",
+      "nome": "Histamina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "728",
+      "nome": "Histidina na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "729",
+      "nome": "Histona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "730",
+      "nome": "Histoplasma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "731",
+      "nome": "Histoplasmose",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "732",
+      "nome": "HIV - antígeno P24  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "733",
+      "nome": "HIV1 ou HIV2, pesquisa de anticorpos  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "734",
+      "nome": "HLA-DR  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "735",
+      "nome": "HLA-DR+DQ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "736",
+      "nome": "Homocisteína",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "737",
+      "nome": "Hormônio antidiurético  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "738",
+      "nome": "Hormônio do Crescimento,(HGH)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "739",
+      "nome": "Hormônio gonodotrofico corionico",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "740",
+      "nome": "Hormônio luteinizante (LH)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "741",
+      "nome": "Hormônio Tireoestimulante, (TSH)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "742",
+      "nome": "HPV (vírus do papiloma humano)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "743",
+      "nome": "HTLV I / II  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "744",
+      "nome": "Hymenolepis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "745",
+      "nome": "Identificação de helmintos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "746",
+      "nome": "Ifosfamida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "747",
+      "nome": "IgA",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "748",
+      "nome": "IgA na saliva  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "749",
+      "nome": "IgD",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "750",
+      "nome": "IgE",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "751",
+      "nome": "IGF BP3 (proteína ligadora dos fatores de crescimento \"insulinlike\")",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "752",
+      "nome": "IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "753",
+      "nome": "IgM",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "754",
+      "nome": "Imipramina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "755",
+      "nome": "Impedanciometria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "756",
+      "nome": "Imunocomplexos circulantes  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "757",
+      "nome": "Imunocomplexos circulantes, com células Raji",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "758",
+      "nome": "Imunoeletroforese (estudo da gamopatia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "759",
+      "nome": "Imunofenotipagem para doença residual mínima  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "760",
+      "nome": "Imunofenotipagem para hemoglobinúria paroxistica noturna  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "761",
+      "nome": "Imunofenotipagem para leucemias agudas ou sindrome mielodisplásica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "762",
+      "nome": "Imunofenotipagem para linfoma não hodgkin / sindrome linfoproliferativa crônica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "763",
+      "nome": "Imunofenotipagem para perfil imune  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "764",
+      "nome": "Imunofixação",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "765",
+      "nome": "Índice de tiroxina livre (ITL)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "766",
+      "nome": "Índio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "767",
+      "nome": "Inibidor de C1 esterase  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "768",
+      "nome": "Inibidor do fator IX",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "769",
+      "nome": "Inibidor do TPA (PAI)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "770",
+      "nome": "Inibidor dos fatores da hemostasia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "771",
+      "nome": "Insulina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "772",
+      "nome": "Iodo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "773",
+      "nome": "Iodo protéico (PBI)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "774",
+      "nome": "Iontoforese para a coleta de suor, com dosagem de cloro",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "775",
+      "nome": "Irídio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "776",
+      "nome": "Isoaglutininas",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "777",
+      "nome": "Isobutanol urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "778",
+      "nome": "Isoforonodiamina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "779",
+      "nome": "Isolamento de agentes específicos (vírus, bactérias, protozoários, fungos, outros parasitas)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "780",
+      "nome": "Isomerase fosfohexose  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "781",
+      "nome": "Isoniazida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "782",
+      "nome": "Isopropanol urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "783",
+      "nome": "Isospora (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "784",
+      "nome": "Isospora (sorologia)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "785",
+      "nome": "Ito (cancro mole), IDeR  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "786",
+      "nome": "Ítrio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "787",
+      "nome": "Klebsiella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "788",
+      "nome": "Kveim (sarcoidose), IDeR  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "789",
+      "nome": "Lactogênico placentário- hormônio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "790",
+      "nome": "Lactose, teste de tolerância  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "791",
+      "nome": "Lamotrigina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "792",
+      "nome": "Larvas (fezes), pesquisa  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "793",
+      "nome": "Lassa vírus, pesquisa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "794",
+      "nome": "Legionella - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "795",
+      "nome": "Legionella - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "796",
+      "nome": "Leishmania (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "797",
+      "nome": "Leishmaniose - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "798",
+      "nome": "Leishmaniose - IgM",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "799",
+      "nome": "Leptina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "800",
+      "nome": "Leptospirose - IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "801",
+      "nome": "Leptospirose - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "802",
+      "nome": "Leucino aminopeptidase  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "803",
+      "nome": "Leucócitos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "804",
+      "nome": "Leucócitos e hemácias, pesquisa nas fezes  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "805",
+      "nome": "Leucograma",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "806",
+      "nome": "Leveduras, pesquisa nas fezes",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "807",
+      "nome": "Lichtheimia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "808",
+      "nome": "Lidocaina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "809",
+      "nome": "Lindano (γ-HCH) gama-hexaclorociclo-hexano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "810",
+      "nome": "Linfócitos T \"helper\" contagem de (IF com OKT-4) (CD-4+)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "811",
+      "nome": "Linfócitos T supressores contagem de (IF com OKT-8)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "812",
+      "nome": "Lipase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "813",
+      "nome": "Lipase lipoprotéica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "814",
+      "nome": "Lipídios totais  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "815",
+      "nome": "Lipóides na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "816",
+      "nome": "Lipoproteína (a) - Lp (a)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "817",
+      "nome": "Listeria (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "818",
+      "nome": "Listeriose, reação sorológica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "819",
+      "nome": "Lítio sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "820",
+      "nome": "Lítio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "821",
+      "nome": "Loa (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "822",
+      "nome": "Lyme - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "823",
+      "nome": "Lyme - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "824",
+      "nome": "Lyssavírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "825",
+      "nome": "Lyssavírus do morcego Australiano (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "826",
+      "nome": "Lyssavírus do morcego europeu tipos 1 e 2 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "827",
+      "nome": "Macroprolactina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "828",
+      "nome": "Madurella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "829",
+      "nome": "Magnésio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "830",
+      "nome": "Malária - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "831",
+      "nome": "Malária - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "832",
+      "nome": "Malassezia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "833",
+      "nome": "Malation urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "834",
+      "nome": "Maltose, teste de tolerância  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "835",
+      "nome": "Manganês  urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "836",
+      "nome": "Manganês sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "837",
+      "nome": "Mansonella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "838",
+      "nome": "Mantoux, IDeR  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "839",
+      "nome": "Marcador Tumoral CA 125",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "840",
+      "nome": "Marcador Tumoral CA 15-3",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "841",
+      "nome": "Marcador Tumoral CA 19.9",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "842",
+      "nome": "Marcador Tumoral CA 72-4",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "843",
+      "nome": "Marcadores tumorais  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "844",
+      "nome": "MCA (antígeno cárcino-mamário)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "845",
+      "nome": "Medida de pico de fluxo expiratório",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "846",
+      "nome": "Medida seriada por 3 semanas do pico de fluxo expiratório",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "847",
+      "nome": "MEHP + 5‐OH‐MEHP+ 5‐oxo‐MEHP+ 5‐cx‐MEPP",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "848",
+      "nome": "Melanina na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "849",
+      "nome": "Mercúrio  sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "850",
+      "nome": "Mercúrio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "851",
+      "nome": "Metabólitos de atrazina urinários (Atrazina dealquilada, deetilada, deisoprpilada)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "852",
+      "nome": "Metagonimus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "853",
+      "nome": "Meta-hemoglobina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "854",
+      "nome": "Metais pesados, pesquisa em unhas, cabelos, outros tecidos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "855",
+      "nome": "Metalotioneína urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "856",
+      "nome": "Metanefrinas urinárias",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "857",
+      "nome": "Metanol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "858",
+      "nome": "Metapneumovírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "859",
+      "nome": "Metaxililenodiamina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "860",
+      "nome": "Methotrexate (metotrexato)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "861",
+      "nome": "Metil (4-hidroxi-1H-benzimidazol-2-il)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "862",
+      "nome": "Metil (5-hidoxi-1H-benzimidazol-2-il)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "863",
+      "nome": "Metil Etil Cetona  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "864",
+      "nome": "Metil isobutil cetona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "865",
+      "nome": "Métodos Diagnósticos por Imagem Antebraço  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "866",
+      "nome": "Métodos Diagnósticos por Imagem Antebraço Articulação acromioclavicular  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "867",
+      "nome": "Métodos Diagnósticos por Imagem Articulação coxofemoral (quadril)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "868",
+      "nome": "Métodos Diagnósticos por Imagem Articulação escapuloumeral (ombro)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "869",
+      "nome": "Métodos Diagnósticos por Imagem Articulação esternoclavicular  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "870",
+      "nome": "Métodos Diagnósticos por Imagem Articulação tibiotársica (tornozelo)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "871",
+      "nome": "Métodos Diagnósticos por Imagem Articulações sacro",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "872",
+      "nome": "Métodos Diagnósticos por Imagem Bacia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "873",
+      "nome": "Métodos Diagnósticos por Imagem Braço  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "874",
+      "nome": "Métodos Diagnósticos por Imagem Calcâneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "875",
+      "nome": "Métodos Diagnósticos por Imagem Clavícula  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "876",
+      "nome": "Métodos Diagnósticos por Imagem Coração e vasos da base",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "877",
+      "nome": "Métodos Diagnósticos por Imagem Cotovelo  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "878",
+      "nome": "Métodos Diagnósticos por Imagem Coxa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "879",
+      "nome": "Métodos Diagnósticos por Imagem Escanometria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "880",
+      "nome": "Métodos Diagnósticos por Imagem Escápula  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "881",
+      "nome": "Métodos Diagnósticos por Imagem Esterno  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "882",
+      "nome": "Métodos Diagnósticos por Imagem Joelho",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "883",
+      "nome": "Métodos Diagnósticos por Imagem Laringe ou hipofaringe ou pescoço (partes moles)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "884",
+      "nome": "Métodos Diagnósticos por Imagem Mão ou quirodáctilo  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "885",
+      "nome": "Métodos Diagnósticos por Imagem não especificados na tabela",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "886",
+      "nome": "Métodos Diagnósticos por Imagem Panorâmica dos membros inferiores",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "887",
+      "nome": "Métodos Diagnósticos por Imagem Patela",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "888",
+      "nome": "Métodos Diagnósticos por Imagem Pé ou pododáctilo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "889",
+      "nome": "Métodos Diagnósticos por Imagem Perna",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "890",
+      "nome": "Métodos Diagnósticos por Imagem Punho  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "891",
+      "nome": "Micoplasma pneumoniae - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "892",
+      "nome": "Micoplasma pneumoniae - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "893",
+      "nome": "Microalbuminúria",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "894",
+      "nome": "Micronúcleos cromossômicos (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "895",
+      "nome": "Microsporídia, pesquisa nas fezes  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "896",
+      "nome": "Microsporum (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "897",
+      "nome": "Mielograma  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "898",
+      "nome": "Mioglobina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "899",
+      "nome": "Mioglobina urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "900",
+      "nome": "Mitomicina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "901",
+      "nome": "Molibdênio plasmático",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "902",
+      "nome": "Molibdênio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "903",
+      "nome": "Monoclorometano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "904",
+      "nome": "Monometilfosfato urinário (MMP)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "905",
+      "nome": "Mononucleose - Epstein BARR - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "906",
+      "nome": "Mononucleose, anti-VCA (EBV) IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "907",
+      "nome": "Monóxido de carbono no ar expirado",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "908",
+      "nome": "Montenegro, IDeR  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "909",
+      "nome": "Moraxella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "910",
+      "nome": "Morfoline urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "911",
+      "nome": "Morganella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "912",
+      "nome": "Muco-nasal, pesquisa de eosinófilos e mastócitos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "913",
+      "nome": "Mucopolissacaridose, pesquisa  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "914",
+      "nome": "Mucoproteínas",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "915",
+      "nome": "Mycobacterium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "916",
+      "nome": "Mycoplasma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "917",
+      "nome": "N‐(2‐Carbonamidaetil)‐valina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "918",
+      "nome": "N‐(2‐Cianoetil)-valina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "919",
+      "nome": "N‐(2‐Hidroxietil)-valina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "920",
+      "nome": "N‐(2‐Hidroxipropil)‐valina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "921",
+      "nome": "N-1(hidroxibutenil) valina (adutos de hemoglobina)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "922",
+      "nome": "N-2(hidroxibutenil) valina (adutos de hemoglobina)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "923",
+      "nome": "N-acetil, 3,4-diidroxibutil-cisteína",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "924",
+      "nome": "N-acetil-Beta-glicosaminidase na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "925",
+      "nome": "N‐Acetil‐S‐(2‐carbonamidaetil)-cisteína",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "926",
+      "nome": "N-acetil-S-2-hidroxietil-L-cisteína",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "927",
+      "nome": "Naegleria (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "928",
+      "nome": "Naftóis urinários",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "929",
+      "nome": "NBT estimulado",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "930",
+      "nome": "N‐Butil álcool",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "931",
+      "nome": "N‐Dimetil acetamida + N‐Hidroximetil‐N‐metil acetamida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "932",
+      "nome": "Necator (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "933",
+      "nome": "Neisseria (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "934",
+      "nome": "Neotestudina (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "935",
+      "nome": "N‐Heptano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "936",
+      "nome": "Nióbio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "937",
+      "nome": "Níquel urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "938",
+      "nome": "Nitrogênio amoniacal",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "939",
+      "nome": "Nitrogênio total",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "940",
+      "nome": "Nitroglicóis totais urinários",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "941",
+      "nome": "N‐Metil‐2‐pirrolidona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "942",
+      "nome": "N-metilacetamida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "943",
+      "nome": "N-Metilformamida  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "944",
+      "nome": "N‐Metilformamida + N-Hidroximetil-N-metilformamida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "945",
+      "nome": "N‐Metilvalina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "946",
+      "nome": "Nocardia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "947",
+      "nome": "Norovírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "948",
+      "nome": "Nortriptilina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "949",
+      "nome": "N-telopeptídeo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "950",
+      "nome": "Ocitocinase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "951",
+      "nome": "o-cresol urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "952",
+      "nome": "Onchocerca (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "953",
+      "nome": "Opisthorchis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "954",
+      "nome": "Orbivírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "955",
+      "nome": "Orthopoxvírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "956",
+      "nome": "Ortoreovírus de mamíferos, tipos 1 a 3 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "957",
+      "nome": "Ósmio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "958",
+      "nome": "Osmolalidade",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "959",
+      "nome": "Osmolalidade na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "960",
+      "nome": "Osteocalcina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "961",
+      "nome": "o‐Toluidina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "962",
+      "nome": "Oxcarbazepina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "963",
+      "nome": "Óxido nitroso na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "964",
+      "nome": "p,p-1-Diclorobenzofenona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "965",
+      "nome": "Paládio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "966",
+      "nome": "P-aminofenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "967",
+      "nome": "Papilomavírus humano (HPV) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "968",
+      "nome": "PAPP-A  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "969",
+      "nome": "Paracoccidioides (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "970",
+      "nome": "Paracoccidioidomicose, anticorpos totais / IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "971",
+      "nome": "Paragonimus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "972",
+      "nome": "Parapoxvirus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "973",
+      "nome": "Paraquat urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "974",
+      "nome": "Parasitológico de fezes",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "975",
+      "nome": "Paratormônio - PTH  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "976",
+      "nome": "Parechovirus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "977",
+      "nome": "Parvovírus - IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "978",
+      "nome": "Parvovírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "979",
+      "nome": "Parvovírus humano 4 e 5 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "980",
+      "nome": "Parvovírus humano B19 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "981",
+      "nome": "Pasteurella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "982",
+      "nome": "PCB 101",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "983",
+      "nome": "PCB 138",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "984",
+      "nome": "PCB 153",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "985",
+      "nome": "PCB 180",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "986",
+      "nome": "PCB 28",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "987",
+      "nome": "PCB 52",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "988",
+      "nome": "Pegivírus humano (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "989",
+      "nome": "Penicillium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "990",
+      "nome": "Pentacloroetano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "991",
+      "nome": "Pentaclorofenol sanguíneo/plasmático",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "992",
+      "nome": "Pentaclorofenol urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "993",
+      "nome": "Peptídeo C",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "994",
+      "nome": "Peptídeo natriurético BNP/PROBNP",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "995",
+      "nome": "Peptídio intestinal vasoativo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "996",
+      "nome": "Peptostreptococcus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "997",
+      "nome": "Perfil lipídico / lipidograma  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "998",
+      "nome": "Pesquisa de agente infeccioso específico por PCR",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "999",
+      "nome": "Pesquisa de mutação de alelo específico por PCR",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1000",
+      "nome": "pH - tornassol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1001",
+      "nome": "Piridinolina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1002",
+      "nome": "Pirimidina-5-nucleotidase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1003",
+      "nome": "Piruvato quinase",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1004",
+      "nome": "Planigrafia de tórax, mediastino ou laringe",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1005",
+      "nome": "Plaquetas, teste de agregação  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1006",
+      "nome": "Plasminogênio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1007",
+      "nome": "Plasmodium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1008",
+      "nome": "Platina urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1009",
+      "nome": "Plesiomonas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1010",
+      "nome": "Pneumocysti carinii (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1011",
+      "nome": "p-Nitrocresol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1012",
+      "nome": "p‐Nitrofenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1013",
+      "nome": "Poliomavírus BK (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1014",
+      "nome": "Poliomavírus JC (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1015",
+      "nome": "Poliomavírus KI (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1016",
+      "nome": "Poliomavírus WU (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1017",
+      "nome": "Poliomelite sorologia  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1018",
+      "nome": "Poliovírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1019",
+      "nome": "Porfibilinogênio na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1020",
+      "nome": "Porfirinas quantitativas  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1021",
+      "nome": "Porphyromonas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1022",
+      "nome": "Potássio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1023",
+      "nome": "Poxvírus, pesquisa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1024",
+      "nome": "PPD (tuberculina), IDeR  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1025",
+      "nome": "Prata sanguínea",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1026",
+      "nome": "Pré-albumina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1027",
+      "nome": "Pregnandiol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1028",
+      "nome": "Pregnantriol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1029",
+      "nome": "Prevotella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1030",
+      "nome": "Primidona",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1031",
+      "nome": "Prions (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1032",
+      "nome": "Procainamida",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1033",
+      "nome": "Procalcitonina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1034",
+      "nome": "Produtos de degradação da fibrina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1035",
+      "nome": "Progesterona  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1036",
+      "nome": "Prolactina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1037",
+      "nome": "Propanolol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1038",
+      "nome": "Propilenoglicol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1039",
+      "nome": "Propilenotioureia (PTU)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1040",
+      "nome": "Proteína Amiloide A",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1041",
+      "nome": "Proteína C",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1042",
+      "nome": "Proteína C reativa",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1043",
+      "nome": "Proteína eosinofílica catiônica  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1044",
+      "nome": "Proteína ligadora do retinol  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1045",
+      "nome": "Proteína nuclear matriz 22 (NMP22)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1046",
+      "nome": "Proteína S livre",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1047",
+      "nome": "Proteína S total + livre",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1048",
+      "nome": "Proteína S, teste funcional",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1049",
+      "nome": "Proteínas de Bence Jones",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1050",
+      "nome": "Proteínas totais  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1051",
+      "nome": "Proteus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1052",
+      "nome": "Protoporfirina eritrocitária livre - zinco",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1053",
+      "nome": "Protoporfirinas livres",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1054",
+      "nome": "Protoporfirinas Zn",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1055",
+      "nome": "Prova de concentração da urina (Fishberg ou Volhard)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1056",
+      "nome": "Prova de diluição urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1057",
+      "nome": "Prova de função pulmonar completa (ou espirometria)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1058",
+      "nome": "Prova do laço",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1059",
+      "nome": "Prova do LH-Rh",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1060",
+      "nome": "Prova do TRH-HPR",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1061",
+      "nome": "Prova para diabete insípido  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1062",
+      "nome": "Providencia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1063",
+      "nome": "Pseudallescheria (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1064",
+      "nome": "Pseudomonas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1065",
+      "nome": "Pseudoterranova (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1066",
+      "nome": "Psitacose - IgA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1067",
+      "nome": "Psitacose - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1068",
+      "nome": "Psitacose - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1069",
+      "nome": "p‐ter‐Butilfenol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1070",
+      "nome": "p-toluidina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1071",
+      "nome": "Quebra das fitas de DNA (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1072",
+      "nome": "Quinidina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1073",
+      "nome": "Radiografia de coluna cervical",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1074",
+      "nome": "Radiografia de coluna dorsal",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1075",
+      "nome": "Radiografia de coluna lombo-sacra",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1076",
+      "nome": "Radiografia de membros inferiores",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1077",
+      "nome": "Radiografia de membros superiores",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1078",
+      "nome": "Radiografia de tórax (PA) Padrão OIT (1980), com dois leitores habilitados",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1079",
+      "nome": "Raiva (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1080",
+      "nome": "Reação de fixação de complemento",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1081",
+      "nome": "Reação sorológica para coxsackie, neutralização IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1082",
+      "nome": "Renina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1083",
+      "nome": "Reovírus tipos 1 a 3 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1084",
+      "nome": "Reserva alcalina (bicarbonato)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1085",
+      "nome": "Resistência globular, curva de",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1086",
+      "nome": "Reticulócitos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1087",
+      "nome": "Retração do coágulo  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1088",
+      "nome": "Rhinocladiella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1089",
+      "nome": "Rhizomucor (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1090",
+      "nome": "Rhizopus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1091",
+      "nome": "Rhodococcus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1092",
+      "nome": "Rickettsia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1093",
+      "nome": "Rinovírus humano (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1094",
+      "nome": "Ristocetina, co-fator",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1095",
+      "nome": "Rochalimaea (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1096",
+      "nome": "Ródio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1097",
+      "nome": "Rotavírus humano tipos A, B e C (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1098",
+      "nome": "Rotina de urina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1099",
+      "nome": "Rubéola - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1100",
+      "nome": "Rubéola - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1101",
+      "nome": "Rubídio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1102",
+      "nome": "Sacarose, teste de tolerância  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1103",
+      "nome": "Saksenaea (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1104",
+      "nome": "Salicilatos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1105",
+      "nome": "Salmonela (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1106",
+      "nome": "Samário urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1107",
+      "nome": "Sangue oculto nas fezes",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1108",
+      "nome": "Sarampo - anticorpos IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1109",
+      "nome": "Sarampo - anticorpos IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1110",
+      "nome": "Sarcocystis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1111",
+      "nome": "Sarcoptes scabei (pesquisa)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1112",
+      "nome": "Scedosporium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1113",
+      "nome": "Schistosoma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1114",
+      "nome": "Schistosomose/Esquistossomose - IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1115",
+      "nome": "Schistosomose/Esquistossomose - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1116",
+      "nome": "Scopulariopsis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1117",
+      "nome": "Selênio plasmático",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1118",
+      "nome": "Selênio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1119",
+      "nome": "Serpulina (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1120",
+      "nome": "Shigella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1121",
+      "nome": "Sífilis - FTA-ABS-IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1122",
+      "nome": "Sífilis - FTA-ABS-IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1123",
+      "nome": "Sífilis - VDRL  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1124",
+      "nome": "Silício sangúineo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1125",
+      "nome": "S‐Metilcisteína",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1126",
+      "nome": "Sobrecarga de água, prova  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1127",
+      "nome": "Sódio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1128",
+      "nome": "Solventes, pesquisa no ar expirado",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1129",
+      "nome": "Somatomedina C (IGF1)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1130",
+      "nome": "Somatotrófico coriônico-hormônio (HCS ou PHL)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1131",
+      "nome": "Sporothrix (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1132",
+      "nome": "Staphylococcus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1133",
+      "nome": "Streptococcus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1134",
+      "nome": "Strongyloides (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1135",
+      "nome": "Substâncias redutoras nas fezes",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1136",
+      "nome": "Succinil acetona  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1137",
+      "nome": "Sulfato de dehidroepiandrosterona (S-DHEA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1138",
+      "nome": "Sulfatos inorgânicos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1139",
+      "nome": "Sulfatos orgânicos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1140",
+      "nome": "Sulfo-hemoglobina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1141",
+      "nome": "Sulfonamidas livre e acetilada (% de acetilação)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1142",
+      "nome": "T3 livre  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1143",
+      "nome": "T3 retenção  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1144",
+      "nome": "T3 reverso  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1145",
+      "nome": "T4 livre  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1146",
+      "nome": "Tacrolimus",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1147",
+      "nome": "Taenia saginata (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1148",
+      "nome": "Taenia solium (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1149",
+      "nome": "Tálio sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1150",
+      "nome": "Tálio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1151",
+      "nome": "Telúrio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1152",
+      "nome": "Tempo de coagulação  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1153",
+      "nome": "Tempo de Protrombina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1154",
+      "nome": "Tempo de reptilase  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1155",
+      "nome": "Tempo de sangramento (Duke)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1156",
+      "nome": "Tempo de sangramento de IVY",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1157",
+      "nome": "Tempo de Trombina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1158",
+      "nome": "Tempo de Tromboplastina Parcial Ativada (TTPA)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1159",
+      "nome": "Teofilina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1160",
+      "nome": "Ter-butil-álcool sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1161",
+      "nome": "Ter-butil-álcool urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1162",
+      "nome": "Ter-butil-metil-éter sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1163",
+      "nome": "Ter-butil-metil-éter urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1164",
+      "nome": "Teste de inibição da migração dos linfócitos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1165",
+      "nome": "Teste de tolerância a insulina ou hipoglicemiantes orais",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1166",
+      "nome": "Teste ergométrico  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1167",
+      "nome": "Teste oral de tolerância à glicose  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1168",
+      "nome": "Teste respiratório para H. Pylori  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1169",
+      "nome": "Testes cutâneo-alérgicos para alérgenos da poeira",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1170",
+      "nome": "Testes cutâneo-alérgicos para alimentos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1171",
+      "nome": "Testes cutâneo-alérgicos para fungos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1172",
+      "nome": "Testes cutâneo-alérgicos para insetos hematófagos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1173",
+      "nome": "Testes cutâneo-alérgicos para pólens",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1174",
+      "nome": "Testes de contato - até 30 substâncias",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1175",
+      "nome": "Testosterona livre  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1176",
+      "nome": "Testosterona total  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1177",
+      "nome": "Tetracloreto de carbono (tetraclorometano)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1178",
+      "nome": "Tetracloroetano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1179",
+      "nome": "Tetracloroetileno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1180",
+      "nome": "Tetrahidroftalimida urinária",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1181",
+      "nome": "Tetra-hidrofurano",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1182",
+      "nome": "Thiram sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1183",
+      "nome": "Tiocianato plasmático",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1184",
+      "nome": "Tiocianato urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1185",
+      "nome": "Tireoglobulina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1186",
+      "nome": "Tirosina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1187",
+      "nome": "Tirosinose na urina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1188",
+      "nome": "Tolueno sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1189",
+      "nome": "Tolueno urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1190",
+      "nome": "Tolueno‐2,4‐diamina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1191",
+      "nome": "Tolueno‐2,6‐diamina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1192",
+      "nome": "Torovírus bovino (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1193",
+      "nome": "Torovírus equino (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1194",
+      "nome": "Torovírus humano (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1195",
+      "nome": "Torovírus porcino (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1196",
+      "nome": "Toxocara (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1197",
+      "nome": "Toxocara cannis - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1198",
+      "nome": "Toxocara cannis - IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1199",
+      "nome": "Toxoplasma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1200",
+      "nome": "Toxoplasmina, IDeR",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1201",
+      "nome": "Toxoplasmose - IgA  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1202",
+      "nome": "Toxoplasmose IgG",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1203",
+      "nome": "Toxoplasmose IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1204",
+      "nome": "Transaminase oxalacética (amino transferase aspartato)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1205",
+      "nome": "Transaminase pirúvica (amino transferase de alanina)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1206",
+      "nome": "Transferrina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1207",
+      "nome": "Treponema (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1208",
+      "nome": "Triazínicos dealquilados",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1209",
+      "nome": "Triazolam",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1210",
+      "nome": "Trichinella (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1211",
+      "nome": "Trichomonas (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1212",
+      "nome": "Trichosporon (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1213",
+      "nome": "Trichostrongylus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1214",
+      "nome": "Trichuris (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1215",
+      "nome": "Triclorocompostos totais  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1216",
+      "nome": "Tricloroetano sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1217",
+      "nome": "Tricloroetanol urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1218",
+      "nome": "Tricloroetileno",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1219",
+      "nome": "Tricloropridinol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1220",
+      "nome": "Tricophyton (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1221",
+      "nome": "Trifenilcarbinol urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1222",
+      "nome": "Triglicerídeos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1223",
+      "nome": "Trimipramina  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1224",
+      "nome": "Tripsina imuno reativa (IRT)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1225",
+      "nome": "Troca de cromátides irmãs (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1226",
+      "nome": "Tromboelastograma",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1227",
+      "nome": "Troponina",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1228",
+      "nome": "Trypanosoma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1229",
+      "nome": "Tungstênio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1230",
+      "nome": "Ultrassonografia  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1231",
+      "nome": "Ultrassonografia Abdome inferior feminino (bexiga, útero, ovário e anexos)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1232",
+      "nome": "Ultrassonografia Abdome inferior masculino (bexiga, próstata e vesículas seminais)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1233",
+      "nome": "Ultrassonografia Abdome superior (fígado, vias biliares, vesícula, pâncreas, baço)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1234",
+      "nome": "Ultrassonografia Abdome total (inclui abdome inferior)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1235",
+      "nome": "Ultrassonografia Aparelho urinário feminino (rins, ureteres e bexiga)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1236",
+      "nome": "Ultrassonografia Aparelho urinário masculino (rins, ureteres, bexiga e próstata)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1237",
+      "nome": "Ultrassonografia Articular  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1238",
+      "nome": "Ultrassonografia Dermatológico - pele e subcutâneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1239",
+      "nome": "Urânio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1240",
+      "nome": "Ureaplasma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1241",
+      "nome": "Urease, teste rápido parahelicobacter pylori",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1242",
+      "nome": "Uréia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1243",
+      "nome": "Urobilinogênio",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1244",
+      "nome": "Uroporfirinas",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1245",
+      "nome": "Vanádio sanguíneo/plasmático",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1246",
+      "nome": "Vanádio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1247",
+      "nome": "Varicela, IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1248",
+      "nome": "Varicela, IgM  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1249",
+      "nome": "Vibrio (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1250",
+      "nome": "Vírus ‘Buffalopox’ Vaccinia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1251",
+      "nome": "Vírus Absettarov (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1252",
+      "nome": "Vírus Akabane (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1253",
+      "nome": "Vírus Amapari (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1254",
+      "nome": "Vírus Andes (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1255",
+      "nome": "Vírus Banna (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1256",
+      "nome": "Vírus Bebaru (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1257",
+      "nome": "Vírus Belgrade (Dobrava) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1258",
+      "nome": "Vírus Bhanja (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1259",
+      "nome": "Vírus Bunyamwera (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1260",
+      "nome": "Vírus Chapare (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1261",
+      "nome": "Vírus Chikungunya (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1262",
+      "nome": "Vírus Coxsackie (A e B) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1263",
+      "nome": "Vírus da conjuntivite hemorrágica aguda (AHC) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1264",
+      "nome": "Vírus da coriomeningite linfocítica (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1265",
+      "nome": "Vírus da Dengue tipos 1-4 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1266",
+      "nome": "Vírus da doença da floresta Kyasanur  (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1267",
+      "nome": "Vírus da Doença de carneiros do Nairobi (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1268",
+      "nome": "Vírus da doença lupina (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1269",
+      "nome": "Vírus da Encefalite da Califórnia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1270",
+      "nome": "Vírus da Encefalite de Murray Valley (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1271",
+      "nome": "Vírus da Encefalite de St Louis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1272",
+      "nome": "Vírus da Encefalite do carrapato (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1273",
+      "nome": "Vírus da Encefalite do carrapato da Europa Central (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1274",
+      "nome": "Vírus da Encefalite do carrapato do Extremo Oriente (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1275",
+      "nome": "Vírus da Encefalite do carrapato Siberiano (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1276",
+      "nome": "Vírus da Encefalite equina do oeste (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1277",
+      "nome": "Vírus da Encefalite Japonesa (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1278",
+      "nome": "Vírus da Encefalite primavera-verão Russa (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1279",
+      "nome": "Vírus da Estomatite Vesicular (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1280",
+      "nome": "Vírus da família Bunyaviridae (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1281",
+      "nome": "Vírus da família Caliciviridae (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1282",
+      "nome": "Vírus da Febre Amarela (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1283",
+      "nome": "Vírus da febre com trombocitopenia severa (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1284",
+      "nome": "Vírus da Febre de Lassa (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1285",
+      "nome": "Vírus da Febre de Rift Valley (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1286",
+      "nome": "Vírus da Febre do carrapato do Colorado (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1287",
+      "nome": "Vírus da Febre Hemmorrágica de Omsk (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1288",
+      "nome": "Vírus da Febre Hemorrágica da Crimea/Congo (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1289",
+      "nome": "Vírus da Febre Hemorrágica de Alkhurma (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1290",
+      "nome": "Vírus da Imudeficiência Humana HIV (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1291",
+      "nome": "Vírus da Imudeficiência Símia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1292",
+      "nome": "Vírus da Lebre Snoeshoe (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1293",
+      "nome": "Vírus da meningite de perus de Israel (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1294",
+      "nome": "Vírus da meningoencefalomielite (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1295",
+      "nome": "Vírus da Mosca da Areia de Naples (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1296",
+      "nome": "Vírus da varíola bovina (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1297",
+      "nome": "Vírus das águas brancas de Arroyo (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1298",
+      "nome": "Vírus Dhori (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1299",
+      "nome": "Vírus do molusco contagioso (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1300",
+      "nome": "Vírus do Morcego de Lagos (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1301",
+      "nome": "Vírus Dugbe (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1302",
+      "nome": "Vírus Duvenhage (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1303",
+      "nome": "Vírus Everglades (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1304",
+      "nome": "Vírus Flexal (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1305",
+      "nome": "Vírus Ganjam (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1306",
+      "nome": "Vírus Germiston (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1307",
+      "nome": "Vírus Getah (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1308",
+      "nome": "Vírus Guanarito (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1309",
+      "nome": "Vírus Hantaan (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1310",
+      "nome": "Vírus Hanzalova (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1311",
+      "nome": "Vírus Hazara (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1312",
+      "nome": "Vírus Hendra (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1313",
+      "nome": "Vírus Herpes Simplex 1 e 2 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1314",
+      "nome": "Vírus Hypr (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1315",
+      "nome": "Vírus Influenza A, B e C (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1316",
+      "nome": "Vírus Ippy (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1317",
+      "nome": "Vírus Junin (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1318",
+      "nome": "Vírus Kodoko (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1319",
+      "nome": "Vírus Kumlinge (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1320",
+      "nome": "Vírus La Crosse (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1321",
+      "nome": "Vírus Latino (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1322",
+      "nome": "Vírus linfotrópico de células T de primatas, tipos 1 e 2 (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1323",
+      "nome": "Vírus Lujo (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1324",
+      "nome": "Vírus Machupo (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1325",
+      "nome": "Vírus Mayaro (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1326",
+      "nome": "Vírus Merino Walk (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1327",
+      "nome": "Vírus Middelburg (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1328",
+      "nome": "Vírus Mobala (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1329",
+      "nome": "Vírus Mokola (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1330",
+      "nome": "Vírus Monkeypox (varíola símia) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1331",
+      "nome": "Vírus Mopeia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1332",
+      "nome": "Vírus Morogoro (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1333",
+      "nome": "Vírus Mucambo (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1334",
+      "nome": "Vírus Ndumu (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1335",
+      "nome": "Vírus Negishi (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1336",
+      "nome": "Vírus Ngari (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1337",
+      "nome": "Vírus Nipah (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1338",
+      "nome": "Vírus Norwalk-like (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1339",
+      "nome": "Vírus O’nyong-nyong (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1340",
+      "nome": "Vírus Orf (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1341",
+      "nome": "Vírus Oropouche (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1342",
+      "nome": "Vírus Parainfluenza (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1343",
+      "nome": "Vírus Parana (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1344",
+      "nome": "Vírus Pichinde (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1345",
+      "nome": "Vírus Piry (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1346",
+      "nome": "Vírus Powassan (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1347",
+      "nome": "Vírus Prospect Hill (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1348",
+      "nome": "Vírus Pseudocowpox (pseudo varíola bovina) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1349",
+      "nome": "Vírus Punta Toro (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1350",
+      "nome": "Vírus Puumala (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1351",
+      "nome": "Vírus relacionado à leucemia murina xenotrópico (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1352",
+      "nome": "Vírus Rocio (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1353",
+      "nome": "Vírus Ross River (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1354",
+      "nome": "Vírus Sabia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1355",
+      "nome": "Vírus Sal Vieja (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1356",
+      "nome": "Vírus San Perlita (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1357",
+      "nome": "Vírus sem nome ou de Muerto Canyon (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1358",
+      "nome": "Vírus Seoul (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1359",
+      "nome": "Vírus Símio 40 (SV40) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1360",
+      "nome": "Vírus sincicial respiratório - Elisa - IgG  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1361",
+      "nome": "Vírus sincicial respiratório humano (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1362",
+      "nome": "Vírus Thogoto (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1363",
+      "nome": "Vírus Torque teno (TTV) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1364",
+      "nome": "Vírus Toscana (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1365",
+      "nome": "Vírus tumorais do macaco Yaba (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1366",
+      "nome": "Vírus Variola (maior e menor) (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1367",
+      "nome": "Vírus Wesselsbron (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1368",
+      "nome": "Vírus, (sincicial, respiratório) pesquisa direta",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1369",
+      "nome": "VírusTamiami (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1370",
+      "nome": "Vitamina A",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1371",
+      "nome": "Vitamina B1",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1372",
+      "nome": "Vitamina B12",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1373",
+      "nome": "Vitamina B2",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1374",
+      "nome": "Vitamina B3",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1375",
+      "nome": "Vitamina B6",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1376",
+      "nome": "Vitamina D2",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1377",
+      "nome": "Vitamina E",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1378",
+      "nome": "Vitamina K",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1379",
+      "nome": "Waaler-Rose (fator reumatóide)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1380",
+      "nome": "Weil Felix (Ricketsiose),  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1381",
+      "nome": "Western Blot (anticorpos anti-HIV)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1382",
+      "nome": "Western Blot (anticorpos anti-HTVI ou HTLVII)  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1383",
+      "nome": "Widal, reação de",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1384",
+      "nome": "Wuchereria (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1385",
+      "nome": "X frágil (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1386",
+      "nome": "Xileno sanguíneo",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1387",
+      "nome": "Xilose, teste de absorção à",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1388",
+      "nome": "Xylohypha (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1389",
+      "nome": "Yersinia (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1390",
+      "nome": "Yersinia pestis (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1391",
+      "nome": "Zika vírus (pesquisa)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1392",
+      "nome": "Zika vírus sorologia",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1393",
+      "nome": "Zinco  ",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1394",
+      "nome": "Zinco urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1395",
+      "nome": "Zircônio urinário",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1396",
+      "nome": "α-fluoro-β-alanine (FBAL)",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1397",
+      "nome": "α-naftol",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1992",
+      "nome": "Detecção de agente químico não especificado na tabela",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1993",
+      "nome": "Detecção de agentes infecciosos não especificados na tabela por ELISA",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1994",
+      "nome": "Detecção de agentes infecciosos não especificados na tabela por Imunofluorescência",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1995",
+      "nome": "Detecção de agentes infecciosos não especificados na tabela por Métodos Sorológicos",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1996",
+      "nome": "Detecção de agentes infecciosos não especificados na tabela por PCR",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1997",
+      "nome": "Detecção de agentes infecciosos não especificados na tabela por Western blot",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1998",
+      "nome": "Detecção de medicamento não especificado na tabela",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "1999",
+      "nome": "Métodos Diagnósticos por Imagem não especificados anteriormente",
+      "natureza": "COMPLEMENTAR"
+    },
+    {
+      "codigo": "9999",
+      "nome": "Outros procedimentos diagnósticos não descritos anteriormente",
+      "natureza": "COMPLEMENTAR"
+    }
+  ]
+}

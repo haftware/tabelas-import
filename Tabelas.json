@@ -1,6 +1,10 @@
 [
   {
-    "versao": 6,
+    "versao": 1,
     "nome": "CNAE"
+  },
+  {
+    "versao": 1,
+    "nome": "ESocial27"
   }
 ]
